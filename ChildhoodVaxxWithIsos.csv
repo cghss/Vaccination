@@ -1,981 +1,981 @@
-﻿ID,Country,Subtopic_link,Status_link,Map_color,iso_a3_eh
-2852,Afghanistan,Measles,Vaccination for Measles is not required,Option 5,AFG
-2853,Afghanistan,Diphtheria,Vaccination for Poliovirus is not required,Option 5,AFG
-2854,Afghanistan,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,AFG
-2855,Afghanistan,Polio,Vaccination for Varicella is not required,Option 5,AFG
-2856,Afghanistan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,AFG
-5816,Albania,Measles,Vaccination for Measles is required,Option 1,ALB
-5817,Albania,Polio,Vaccination for Poliovirus is required,Option 1,ALB
-5818,Albania,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ALB
-5819,Albania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ALB
-5820,Albania,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,ALB
-6781,Algeria,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DZA
-6782,Algeria,Polio,Vaccination for Poliovirus is required,Option 1,DZA
-6783,Algeria,Diphtheria,Vaccination for Diphtheria is required ,Option 1,DZA
-6784,Algeria,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DZA
-6785,Algeria,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,DZA
-9807,Andorra,Measles,Vaccination for Measles is required,Option 1,AND
-9808,Andorra,Polio,Vaccination for Poliovirus is required,Option 1,AND
-9809,Andorra,Diphtheria,Vaccination for Diphtheria is required ,Option 1,AND
-9810,Andorra,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,AND
-9811,Andorra,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,AND
-9053,Angola,Measles,Vaccination for Measles is not required,Option 5,AGO
-9054,Angola,Polio,Vaccination for Poliovirus is not required,Option 5,AGO
-9055,Angola,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,AGO
-9056,Angola,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,AGO
-9057,Angola,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,AGO
-5853,Antigua and Barbuda,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ATG
-5854,Antigua and Barbuda,Polio,Vaccination for Poliovirus is required,Option 1,ATG
-5855,Antigua and Barbuda,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ATG
-5856,Antigua and Barbuda,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ATG
-5857,Antigua and Barbuda,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ATG
-3834,Argentina,Measles,Vaccination for Measles is required,Option 1,ARG
-3835,Argentina,Polio,Vaccination for Poliovirus is required,Option 1,ARG
-3836,Argentina,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ARG
-3837,Argentina,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,ARG
-3838,Argentina,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,ARG
-9288,Armenia,Measles,Vaccination for Measles is not required,Option 5,ARM
-9289,Armenia,Polio,Vaccination for Poliovirus is not required,Option 5,ARM
-9290,Armenia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ARM
-9291,Armenia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ARM
-9292,Armenia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ARM
-9092,Australia,Measles,Vaccination for Measles is required,Option 1,AUS
-9093,Australia,Polio,Vaccination for Poliovirus is required,Option 1,AUS
-9094,Australia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,AUS
-9095,Australia,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,AUS
-9096,Australia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,AUS
-4052,Austria,Measles,Vaccination for Measles is not required,Option 5,AUT
-4053,Austria,Polio,Vaccination for Poliovirus is not required,Option 5,AUT
-4054,Austria,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,AUT
-4055,Austria,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,AUT
-4056,Austria,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,AUT
-7391,Azerbaijan,Measles,Vaccination for Measles is not required,Option 5,AZE
-7392,Azerbaijan,Polio,Vaccination for Poliovirus is not required,Option 5,AZE
-7393,Azerbaijan,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,AZE
-7394,Azerbaijan,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,AZE
-7395,Azerbaijan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,AZE
-9033,Bahamas,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BHS
-9034,Bahamas,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BHS
-9035,Bahamas,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BHS
-9036,Bahamas,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BHS
-9037,Bahamas,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BHS
-8232,Bahrain,Measles,Vaccination for Measles is required,Option 1,BHR
-8233,Bahrain,Polio,Vaccination for Poliovirus is required,Option 1,BHR
-8234,Bahrain,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BHR
-8235,Bahrain,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,BHR
-8236,Bahrain,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BHR
-8580,Bangladesh,Measles,Vaccination for Measles is not required,Option 5,BGD
-8581,Bangladesh,Polio,Vaccination for Poliovirus is not required,Option 5,BGD
-8582,Bangladesh,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,BGD
-8583,Bangladesh,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,BGD
-8584,Bangladesh,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,BGD
-9205,Barbados,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BRB
-9206,Barbados,Polio,Vaccination for Poliovirus is required,Option 1,BRB
-9207,Barbados,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BRB
-9208,Barbados,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BRB
-9209,Barbados,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BRB
-9616,Belarus,Measles,Vaccination for Measles is not required,Option 5,BLR
-9617,Belarus,Polio,Vaccination for Poliovirus is not required,Option 5,BLR
-9618,Belarus,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,BLR
-9619,Belarus,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,BLR
-9620,Belarus,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,BLR
-3919,Belgium,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BEL
-3920,Belgium,Polio,Vaccination for Poliovirus is required,Option 1,BEL
-3921,Belgium,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BEL
-3922,Belgium,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BEL
-3923,Belgium,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BEL
-5874,Belize,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BLZ
-5875,Belize,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BLZ
-5876,Belize,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BLZ
-5877,Belize,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BLZ
-5878,Belize,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BLZ
-9454,Benin,Measles,Vaccination for Measles is required,Option 1,BEN
-9455,Benin,Polio,Vaccination for Poliovirus is required,Option 1,BEN
-9456,Benin,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BEN
-9457,Benin,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BEN
-9458,Benin,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BEN
-7159,Bhutan,Measles,Vaccination for Measles is required,Option 1,BTN
-7160,Bhutan,Polio,Vaccination for Poliovirus is required,Option 1,BTN
-7161,Bhutan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BTN
-7162,Bhutan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BTN
-7163,Bhutan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BTN
-6281,Bolivia (Plurinational State of),Measles,Vaccination for Measles is not required,Option 5,BOL
-6282,Bolivia (Plurinational State of),Polio,Vaccination for Poliovirus is not required,Option 5,BOL
-6283,Bolivia (Plurinational State of),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,BOL
-6284,Bolivia (Plurinational State of),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,BOL
-6285,Bolivia (Plurinational State of),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,BOL
-4078,Bosnia and Herzegovina,Measles,Vaccination for Measles is required,Option 1,BIH
-4079,Bosnia and Herzegovina,Polio,Vaccination for Poliovirus is required,Option 1,BIH
-4080,Bosnia and Herzegovina,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BIH
-4081,Bosnia and Herzegovina,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BIH
-4082,Bosnia and Herzegovina,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BIH
-5843,Botswana,Measles,Vaccination for Measles is required,Option 1,BWA
-5844,Botswana,Polio,Vaccination for Poliovirus is required,Option 1,BWA
-5845,Botswana,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BWA
-5846,Botswana,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BWA
-5847,Botswana,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BWA
-6073,Brazil,Measles,Vaccination for Measles is required,Option 1,BRA
-6074,Brazil,Polio,Vaccination for Poliovirus is required,Option 1,BRA
-6075,Brazil,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BRA
-6076,Brazil,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,BRA
-6077,Brazil,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BRA
-9751,Brunei Darussalam,Measles,Vaccination for Measles is required,Option 1,BRN
-9752,Brunei Darussalam,Polio,Vaccination for Poliovirus is required,Option 1,BRN
-9753,Brunei Darussalam,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BRN
-9754,Brunei Darussalam,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BRN
-9755,Brunei Darussalam,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BRN
-3934,Bulgaria,Measles,Vaccination for Measles is required,Option 1,BGR
-3935,Bulgaria,Polio,Vaccination for Poliovirus is required,Option 1,BGR
-3936,Bulgaria,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BGR
-3937,Bulgaria,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BGR
-3938,Bulgaria,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BGR
-9512,Burkina Faso,Measles,Vaccination for Measles is required,Option 1,BFA
-9513,Burkina Faso,Polio,Vaccination for Poliovirus is required,Option 1,BFA
-9514,Burkina Faso,Diphtheria,Vaccination for Diphtheria is required ,Option 1,BFA
-9515,Burkina Faso,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,BFA
-9516,Burkina Faso,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,BFA
-6342,Burundi,Measles,Vaccination for Measles is not required,Option 5,BDI
-6343,Burundi,Polio,Vaccination for Poliovirus is not required,Option 5,BDI
-6344,Burundi,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,BDI
-6345,Burundi,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,BDI
-6346,Burundi,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,BDI
-9966,Cabo Verde (Cape Verde),Measles,Vaccination for Measles is not required,Option 5,CPV
-9967,Cabo Verde (Cape Verde),Polio,Vaccination for Poliovirus is not required,Option 5,CPV
-9968,Cabo Verde (Cape Verde),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CPV
-9969,Cabo Verde (Cape Verde),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CPV
-9970,Cabo Verde (Cape Verde),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CPV
-6166,Cambodia,Measles,Vaccination for Measles is not required,Option 5,KHM
-6167,Cambodia,Polio,Vaccination for Poliovirus is not required,Option 5,KHM
-6168,Cambodia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,KHM
-6169,Cambodia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,KHM
-6170,Cambodia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,KHM
-9538,Cameroon,Measles,Vaccination for Measles is not required,Option 5,CMR
-9539,Cameroon,Polio,Vaccination for Poliovirus is not required,Option 5,CMR
-9540,Cameroon,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CMR
-9541,Cameroon,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CMR
-9542,Cameroon,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CMR
-3909,Canada,Measles,Vaccination for Measles is not required,Option 5,CAN
-3910,Canada,Polio,Vaccination for Poliovirus is not required,Option 5,CAN
-3911,Canada,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CAN
-3912,Canada,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CAN
-3913,Canada,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CAN
-9449,Central African Republic (CAR),Measles,Vaccination for Measles is not required,Option 5,CAF
-9450,Central African Republic (CAR),Polio,Vaccination for Poliovirus is not required,Option 5,CAF
-9451,Central African Republic (CAR),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CAF
-9452,Central African Republic (CAR),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CAF
-9453,Central African Republic (CAR),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CAF
-8935,Chad,Measles,Vaccination for Measles is not required,Option 5,TCD
-8936,Chad,Polio,Vaccination for Poliovirus is not required,Option 5,TCD
-8937,Chad,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,TCD
-8938,Chad,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,TCD
-8939,Chad,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,TCD
-3829,Chile,Measles,Vaccination for Measles is required,Option 1,CHL
-3830,Chile,Polio,Vaccination for Poliovirus is required,Option 1,CHL
-3831,Chile,Diphtheria,Vaccination for Diphtheria is required ,Option 1,CHL
-3832,Chile,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,CHL
-3833,Chile,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,CHL
-8602,China (People's Republic of China; PRC),Measles,Vaccination for Measles is not required,Option 5,CHN
-8603,China (People's Republic of China; PRC),Polio,Vaccination for Poliovirus is not required,Option 5,CHN
-8604,China (People's Republic of China; PRC),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CHN
-8605,China (People's Republic of China; PRC),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CHN
-8606,China (People's Republic of China; PRC),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CHN
-9119,Chinese Taipei (Taiwan; Republic of China; ROC),Measles,Vaccination for Measles is required,Option 1,TWN
-9120,Chinese Taipei (Taiwan; Republic of China; ROC),Polio,Vaccination for Poliovirus is required,Option 1,TWN
-9121,Chinese Taipei (Taiwan; Republic of China; ROC),Diphtheria,Vaccination for Diphtheria is required ,Option 1,TWN
-9122,Chinese Taipei (Taiwan; Republic of China; ROC),Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,TWN
-9123,Chinese Taipei (Taiwan; Republic of China; ROC),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TWN
-6068,Colombia,Measles,Vaccination for Measles is required,Option 1,COL
-6069,Colombia,Polio,Vaccination for Poliovirus is required,Option 1,COL
-6070,Colombia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,COL
-6071,Colombia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,COL
-6072,Colombia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,COL
-9771,Comoros,Measles,Vaccination for Measles is required,Option 1,COM
-9772,Comoros,Polio,Vaccination for Poliovirus is required,Option 1,COM
-9773,Comoros,Diphtheria,Vaccination for Diphtheria is required ,Option 1,COM
-9774,Comoros,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,COM
-9775,Comoros,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,COM
-6115,Costa Rica,Measles,Vaccination for Measles is required,Option 1,CRI
-6116,Costa Rica,Polio,Vaccination for Poliovirus is required,Option 1,CRI
-6117,Costa Rica,Diphtheria,Vaccination for Diphtheria is required ,Option 1,CRI
-6118,Costa Rica,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,CRI
-6119,Costa Rica,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,CRI
-9533,Côte d'Ivoire (Ivory Coast),Measles,Vaccination for Measles is not required,Option 5,CIV
-9534,Côte d'Ivoire (Ivory Coast),Polio,Vaccination for Poliovirus is not required,Option 5,CIV
-9535,Côte d'Ivoire (Ivory Coast),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CIV
-9536,Côte d'Ivoire (Ivory Coast),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CIV
-9537,Côte d'Ivoire (Ivory Coast),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CIV
-3939,Croatia,Measles,Vaccination for Measles is required,Option 1,HRV
-3940,Croatia,Polio,Vaccination for Poliovirus is required,Option 1,HRV
-3941,Croatia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,HRV
-3942,Croatia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,HRV
-3943,Croatia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,HRV
-9705,Cuba,Measles,Vaccination for Measles is not required,Option 5,CUB
-9706,Cuba,Polio,Vaccination for Poliovirus is not required,Option 5,CUB
-9707,Cuba,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CUB
-9708,Cuba,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CUB
-9709,Cuba,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CUB
-6139,Curacao,Measles,Vaccination for Measles is not required,Option 5,CUW
-6140,Curacao,Polio,Vaccination for Poliovirus is not required,Option 5,CUW
-6141,Curacao,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CUW
-6142,Curacao,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CUW
-6143,Curacao,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CUW
-9543,Cyprus,Measles,Vaccination for Measles is not required,Option 5,CYP
-9544,Cyprus,Polio,Vaccination for Poliovirus is not required,Option 5,CYP
-9545,Cyprus,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CYP
-9546,Cyprus,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CYP
-9547,Cyprus,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CYP
-3945,Czechia (Czech Republic),Measles,Vaccination for Measles is required,Option 1,CZE
-3946,Czechia (Czech Republic),Polio,Vaccination for Poliovirus is required,Option 1,CZE
-3947,Czechia (Czech Republic),Diphtheria,Vaccination for Diphtheria is required ,Option 1,CZE
-3948,Czechia (Czech Republic),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,CZE
-3949,Czechia (Czech Republic),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,CZE
-,Democratic People's Republic of Korea (DPRK),Measles,No data,Option 0,PRK
-,Democratic People's Republic of Korea (DPRK),Polio,No data,Option 0,PRK
-,Democratic People's Republic of Korea (DPRK),Diphtheria,No data,Option 0,PRK
-,Democratic People's Republic of Korea (DPRK),Chickenpox (Varicella),No data,Option 0,PRK
-,Democratic People's Republic of Korea (DPRK),Tuberculosis,No data,Option 0,PRK
-6522,Democratic Republic of Congo (DRC),Measles,Vaccination for Measles is required,Option 1,COD
-6523,Democratic Republic of Congo (DRC),Polio,Vaccination for Poliovirus is required,Option 1,COD
-6524,Democratic Republic of Congo (DRC),Diphtheria,Vaccination for Diphtheria is required ,Option 1,COD
-6525,Democratic Republic of Congo (DRC),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,COD
-6526,Democratic Republic of Congo (DRC),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,COD
-3914,Denmark,Measles,Vaccination for Measles is not required,Option 5,DNK
-3915,Denmark,Polio,Vaccination for Poliovirus is not required,Option 5,DNK
-3916,Denmark,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,DNK
-3917,Denmark,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,DNK
-3918,Denmark,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,DNK
-8957,Djibouti,Measles,Vaccination for Measles is not required,Option 5,DJI
-8958,Djibouti,Polio,Vaccination for Poliovirus is not required,Option 5,DJI
-8959,Djibouti,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,DJI
-8960,Djibouti,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,DJI
-8961,Djibouti,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,DJI
-5879,Dominica,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DMA
-5880,Dominica,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DMA
-5881,Dominica,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DMA
-5882,Dominica,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DMA
-5883,Dominica,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DMA
-9715,Dominican Republic,Measles,Vaccination for Measles is required,Option 1,DOM
-9716,Dominican Republic,Polio,Vaccination for Poliovirus is required,Option 1,DOM
-9717,Dominican Republic,Diphtheria,Vaccination for Diphtheria is required ,Option 1,DOM
-9718,Dominican Republic,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DOM
-9719,Dominican Republic,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,DOM
-6010,Ecuador,Measles,Vaccination for Measles is required,Option 1,ECU
-6011,Ecuador,Polio,Vaccination for Poliovirus is required,Option 1,ECU
-6012,Ecuador,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ECU
-6013,Ecuador,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,ECU
-6014,Ecuador,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,ECU
-8682,Egypt,Measles,Vaccination for Measles is required,Option 1,EGY
-8683,Egypt,Polio,Vaccination for Poliovirus is required,Option 1,EGY
-8684,Egypt,Diphtheria,Vaccination for Diphtheria is required ,Option 1,EGY
-8685,Egypt,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,EGY
-8686,Egypt,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,EGY
-8818,El Salvador,Measles,Vaccination for Measles is required,Option 1,SLV
-8819,El Salvador,Polio,Vaccination for Poliovirus is required,Option 1,SLV
-8820,El Salvador,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SLV
-8821,El Salvador,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,SLV
-8822,El Salvador,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SLV
-9591,Equatorial Guinea,Measles,Vaccination for Measles is not required,Option 5,GNQ
-9592,Equatorial Guinea,Polio,Vaccination for Poliovirus is not required,Option 5,GNQ
-9593,Equatorial Guinea,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GNQ
-9594,Equatorial Guinea,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GNQ
-9595,Equatorial Guinea,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GNQ
-9475,Eritrea,Measles,Vaccination for Measles is not required,Option 5,ERI
-9476,Eritrea,Polio,Vaccination for Poliovirus is not required,Option 5,ERI
-9477,Eritrea,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ERI
-9478,Eritrea,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ERI
-9479,Eritrea,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ERI
-4002,Estonia,Measles,Vaccination for Measles is not required,Option 5,EST
-4003,Estonia,Polio,Vaccination for Poliovirus is not required,Option 5,EST
-4004,Estonia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,EST
-4005,Estonia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,EST
-4006,Estonia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,EST
-9548,Eswatini (Swaziland),Measles,Vaccination for Measles is not required,Option 5,SWZ
-9549,Eswatini (Swaziland),Polio,Vaccination for Poliovirus is not required,Option 5,SWZ
-9550,Eswatini (Swaziland),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SWZ
-9551,Eswatini (Swaziland),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SWZ
-9552,Eswatini (Swaziland),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SWZ
-7061,Ethiopia,Measles,Vaccination for Measles is not required,Option 5,ETH
-7062,Ethiopia,Polio,Vaccination for Poliovirus is not required,Option 5,ETH
-7063,Ethiopia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ETH
-7064,Ethiopia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ETH
-7065,Ethiopia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ETH
-6120,Fiji,Measles,Vaccination for Measles is not required,Option 5,FJI
-6121,Fiji,Polio,Vaccination for Poliovirus is not required,Option 5,FJI
-6122,Fiji,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,FJI
-6123,Fiji,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,FJI
-6124,Fiji,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,FJI
-3997,Finland,Measles,Vaccination for Measles is not required,Option 5,FIN
-3998,Finland,Polio,Vaccination for Poliovirus is not required,Option 5,FIN
-3999,Finland,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,FIN
-4000,Finland,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,FIN
-4001,Finland,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,FIN
-3824,France,Measles,Vaccination for Measles is required,Option 1,FRA
-3825,France,Polio,Vaccination for Poliovirus is required,Option 1,FRA
-3826,France,Diphtheria,Vaccination for Diphtheria is required ,Option 1,FRA
-3827,France,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,FRA
-3828,France,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,FRA
-9523,Gabon,Measles,Vaccination for Measles is not required,Option 5,GAB
-9524,Gabon,Diphtheria,Vaccination for Poliovirus is not required,Option 5,GAB
-9525,Gabon,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,GAB
-9526,Gabon,Polio,Vaccination for Varicella is not required,Option 5,GAB
-9527,Gabon,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GAB
-9402,Gambia (Republic of The),Measles,Vaccination for Measles is not required,Option 5,GMB
-9403,Gambia (Republic of The),Diphtheria,Vaccination for Poliovirus is not required,Option 5,GMB
-9404,Gambia (Republic of The),Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,GMB
-9405,Gambia (Republic of The),Polio,Vaccination for Varicella is not required,Option 5,GMB
-9406,Gambia (Republic of The),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GMB
-5801,Georgia,Measles,Vaccination for Measles is not required,Option 5,GEO
-5802,Georgia,Polio,Vaccination for Poliovirus is not required,Option 5,GEO
-5803,Georgia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GEO
-5804,Georgia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GEO
-5805,Georgia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GEO
-3819,Germany,Measles,Vaccination for Measles is required,Option 1,DEU
-3820,Germany,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DEU
-3821,Germany,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DEU
-3822,Germany,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DEU
-3823,Germany,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,DEU
-6337,Ghana,Measles,Vaccination for Measles is not required,Option 5,GHA
-6338,Ghana,Polio,Vaccination for Poliovirus is not required,Option 5,GHA
-6339,Ghana,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GHA
-6340,Ghana,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GHA
-6341,Ghana,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GHA
-4073,Greece,Measles,Vaccination for Measles is not required,Option 5,GRC
-4074,Greece,Polio,Vaccination for Poliovirus is not required,Option 5,GRC
-4075,Greece,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GRC
-4076,Greece,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GRC
-4077,Greece,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GRC
-,Greenland,Measles,No data,Option 0,GRL
-,Greenland,Polio,No data,Option 0,GRL
-,Greenland,Diphtheria,No data,Option 0,GRL
-,Greenland,Chickenpox (Varicella),No data,Option 0,GRL
-,Greenland,Tuberculosis,No data,Option 0,GRL
-6134,Grenada,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GRD
-6135,Grenada,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GRD
-6136,Grenada,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GRD
-6137,Grenada,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GRD
-6138,Grenada,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GRD
-8651,Guatemala,Measles,Vaccination for Measles is not required,Option 5,GTM
-8652,Guatemala,Polio,Vaccination for Poliovirus is not required,Option 5,GTM
-8653,Guatemala,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GTM
-8654,Guatemala,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GTM
-8655,Guatemala,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GTM
-9586,Guinea,Measles,Vaccination for Measles is required,Option 1,GIN
-9587,Guinea,Polio,Vaccination for Poliovirus is required,Option 1,GIN
-9588,Guinea,Diphtheria,Vaccination for Diphtheria is required ,Option 1,GIN
-9589,Guinea,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GIN
-9590,Guinea,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,GIN
-9606,Guinea Bissau,Measles,Vaccination for Measles is not required,Option 5,GNB
-9607,Guinea Bissau,Polio,Vaccination for Poliovirus is not required,Option 5,GNB
-9608,Guinea Bissau,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GNB
-9609,Guinea Bissau,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GNB
-9610,Guinea Bissau,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GNB
-9224,Guyana,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GUY
-9225,Guyana,Polio,Vaccination for Poliovirus is required,Option 1,GUY
-9226,Guyana,Diphtheria,Vaccination for Diphtheria is required ,Option 1,GUY
-9227,Guyana,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,GUY
-9228,Guyana,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,GUY
-9710,Haiti,Measles,Vaccination for Measles is not required,Option 5,HTI
-9711,Haiti,Polio,Vaccination for Poliovirus is not required,Option 5,HTI
-9712,Haiti,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,HTI
-9713,Haiti,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,HTI
-9714,Haiti,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,HTI
-9792,Holy See (Vatican City),Measles,Vaccination for Measles is not required,Option 5,VAT
-9793,Holy See (Vatican City),Polio,Vaccination for Poliovirus is not required,Option 5,VAT
-9794,Holy See (Vatican City),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,VAT
-9795,Holy See (Vatican City),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,VAT
-9796,Holy See (Vatican City),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,VAT
-3814,Honduras,Measles,Vaccination for Measles is required,Option 1,HND
-3815,Honduras,Polio,Vaccination for Poliovirus is required,Option 1,HND
-3816,Honduras,Diphtheria,Vaccination for Diphtheria is required ,Option 1,HND
-3817,Honduras,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,HND
-3818,Honduras,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,HND
-3992,Hungary,Measles,Vaccination for Measles is required,Option 1,HUN
-3993,Hungary,Polio,Vaccination for Poliovirus is required,Option 1,HUN
-3994,Hungary,Diphtheria,Vaccination for Diphtheria is required ,Option 1,HUN
-3995,Hungary,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,HUN
-3996,Hungary,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,HUN
-3982,Iceland,Measles,Vaccination for Measles is not required,Option 5,ISL
-3983,Iceland,Polio,Vaccination for Poliovirus is not required,Option 5,ISL
-3984,Iceland,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ISL
-3985,Iceland,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ISL
-3986,Iceland,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ISL
-8488,India,Measles,Vaccination for Measles is not required,Option 5,IND
-8489,India,Polio,Vaccination for Poliovirus is not required,Option 5,IND
-8490,India,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,IND
-8491,India,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,IND
-8492,India,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,IND
-6171,Indonesia,Measles,Vaccination for Measles is required,Option 1,IDN
-6172,Indonesia,Polio,Vaccination for Poliovirus is required,Option 1,IDN
-6173,Indonesia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,IDN
-6174,Indonesia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IDN
-6175,Indonesia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,IDN
-8791,Iran (Islamic Republic of),Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRN
-8792,Iran (Islamic Republic of),Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRN
-8793,Iran (Islamic Republic of),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRN
-8794,Iran (Islamic Republic of),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRN
-8795,Iran (Islamic Republic of),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRN
-6149,Iraq,Measles,Vaccination for Measles is required,Option 1,IRQ
-6150,Iraq,Polio,Vaccination for Poliovirus is required,Option 1,IRQ
-6151,Iraq,Diphtheria,Vaccination for Diphtheria is required ,Option 1,IRQ
-6152,Iraq,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,IRQ
-6153,Iraq,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,IRQ
-3987,Ireland,Measles,Vaccination for Measles is not required,Option 5,IRL
-3988,Ireland,Polio,Vaccination for Poliovirus is not required,Option 5,IRL
-3989,Ireland,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,IRL
-3990,Ireland,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,IRL
-3991,Ireland,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,IRL
-3809,Israel,Measles,Vaccination for Measles is not required,Option 5,ISR
-3810,Israel,Polio,Vaccination for Poliovirus is not required,Option 5,ISR
-3811,Israel,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ISR
-3812,Israel,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ISR
-3813,Israel,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ISR
-2860,Italy,Measles,Vaccination for Measles is required,Option 1,ITA
-2861,Italy,Polio,Vaccination for Poliovirus is required,Option 1,ITA
-2862,Italy,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ITA
-2863,Italy,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,ITA
-2864,Italy,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ITA
-5936,Jamaica,Measles,Vaccination for Measles is required,Option 1,JAM
-5937,Jamaica,Polio,Vaccination for Poliovirus is required,Option 1,JAM
-5938,Jamaica,Diphtheria,Vaccination for Diphtheria is required ,Option 1,JAM
-5939,Jamaica,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,JAM
-5940,Jamaica,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,JAM
-5989,Japan,Measles,Vaccination for Measles is not required,Option 5,JPN
-5990,Japan,Polio,Vaccination for Poliovirus is not required,Option 5,JPN
-5991,Japan,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,JPN
-5992,Japan,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,JPN
-5993,Japan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,JPN
-8989,Jordan,Measles,Vaccination for Measles is required,Option 1,JOR
-8990,Jordan,Polio,Vaccination for Poliovirus is required,Option 1,JOR
-8991,Jordan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,JOR
-8992,Jordan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,JOR
-8993,Jordan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,JOR
-6759,Kazakhstan,Measles,Vaccination for Measles is required,Option 1,KAZ
-6760,Kazakhstan,Polio,Vaccination for Poliovirus is required,Option 1,KAZ
-6761,Kazakhstan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,KAZ
-6762,Kazakhstan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,KAZ
-6763,Kazakhstan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,KAZ
-3839,Kenya,Measles,Vaccination for Measles is not required,Option 5,KEN
-3840,Kenya,Polio,Vaccination for Poliovirus is not required,Option 5,KEN
-3841,Kenya,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,KEN
-3842,Kenya,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,KEN
-3843,Kenya,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,KEN
-9350,Kuwait,Measles,Vaccination for Measles is required,Option 1,KWT
-9351,Kuwait,Polio,Vaccination for Poliovirus is required,Option 1,KWT
-9352,Kuwait,Diphtheria,Vaccination for Diphtheria is required ,Option 1,KWT
-9353,Kuwait,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,KWT
-9354,Kuwait,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,KWT
-8813,Kyrgyzstan,Measles,Vaccination for Measles is required,Option 1,KGZ
-8814,Kyrgyzstan,Polio,Vaccination for Poliovirus is required,Option 1,KGZ
-8815,Kyrgyzstan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,KGZ
-8816,Kyrgyzstan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,KGZ
-8817,Kyrgyzstan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,KGZ
-7066,Lao People's Democratic Republic (Laos; Lao PDR),Measles,Vaccination for Measles is required,Option 1,LAO
-7067,Lao People's Democratic Republic (Laos; Lao PDR),Polio,Vaccination for Poliovirus is required,Option 1,LAO
-7068,Lao People's Democratic Republic (Laos; Lao PDR),Diphtheria,Vaccination for Diphtheria is required ,Option 1,LAO
-7069,Lao People's Democratic Republic (Laos; Lao PDR),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LAO
-7070,Lao People's Democratic Republic (Laos; Lao PDR),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,LAO
-3950,Latvia,Measles,Vaccination for Measles is required,Option 1,LVA
-3951,Latvia,Polio,Vaccination for Poliovirus is required,Option 1,LVA
-3952,Latvia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,LVA
-3953,Latvia,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,LVA
-3954,Latvia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,LVA
-9576,Lebanon,Measles,Vaccination for Measles is not required,Option 5,LBN
-9577,Lebanon,Polio,Vaccination for Poliovirus is not required,Option 5,LBN
-9578,Lebanon,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,LBN
-9579,Lebanon,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,LBN
-9580,Lebanon,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,LBN
-9064,Lesotho,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LSO
-9065,Lesotho,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LSO
-9066,Lesotho,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LSO
-9067,Lesotho,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LSO
-9068,Lesotho,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LSO
-6432,Liberia,Measles,Vaccination for Measles is required,Option 1,LBR
-6433,Liberia,Polio,Vaccination for Poliovirus is required,Option 1,LBR
-6434,Liberia,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LBR
-6435,Liberia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LBR
-6436,Liberia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LBR
-5755,Libya,Measles,Vaccination for Measles is required,Option 1,LBY
-5756,Libya,Polio,Vaccination for Poliovirus is required,Option 1,LBY
-5757,Libya,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LBY
-5758,Libya,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LBY
-5759,Libya,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,LBY
-4062,Liechtenstein,Measles,Vaccination for Measles is not required,Option 5,LIE
-4063,Liechtenstein,Polio,Vaccination for Poliovirus is not required,Option 5,LIE
-4064,Liechtenstein,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,LIE
-4065,Liechtenstein,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,LIE
-4066,Liechtenstein,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,LIE
-4057,Lithuania,Measles,Vaccination for Measles is not required,Option 5,LTU
-4058,Lithuania,Polio,Vaccination for Poliovirus is not required,Option 5,LTU
-4059,Lithuania,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,LTU
-4060,Lithuania,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,LTU
-4061,Lithuania,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,LTU
-4042,Luxembourg,Measles,Vaccination for Measles is not required,Option 5,LUX
-4043,Luxembourg,Polio,Vaccination for Poliovirus is not required,Option 5,LUX
-4044,Luxembourg,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,LUX
-4045,Luxembourg,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,LUX
-4046,Luxembourg,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,LUX
-6661,Madagascar,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MDG
-6662,Madagascar,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MDG
-6663,Madagascar,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MDG
-6664,Madagascar,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MDG
-6665,Madagascar,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MDG
-6495,Malawi,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MWI
-6496,Malawi,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MWI
-6497,Malawi,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MWI
-6498,Malawi,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MWI
-6499,Malawi,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MWI
-9136,Malaysia,Measles,Vaccination for Measles is not required,Option 5,MYS
-9137,Malaysia,Polio,Vaccination for Poliovirus is not required,Option 5,MYS
-9138,Malaysia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MYS
-9139,Malaysia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MYS
-9140,Malaysia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MYS
-9198,Maldives,Measles,Vaccination for Measles is not required,Option 5,MDV
-9199,Maldives,Polio,Vaccination for Poliovirus is not required,Option 5,MDV
-9200,Maldives,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MDV
-9201,Maldives,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MDV
-9202,Maldives,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MDV
-8889,Mali,Measles,Vaccination for Measles is required,Option 1,MLI
-8890,Mali,Polio,Vaccination for Poliovirus is required,Option 1,MLI
-8891,Mali,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MLI
-8892,Mali,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MLI
-8893,Mali,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MLI
-4068,Malta,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MLT
-4069,Malta,Polio,Vaccination for Poliovirus is required,Option 1,MLT
-4070,Malta,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MLT
-4071,Malta,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MLT
-4072,Malta,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MLT
-9756,Marshall Islands,Measles,Vaccination for Measles is not required,Option 5,MHL
-9757,Marshall Islands,Polio,Vaccination for Poliovirus is not required,Option 5,MHL
-9758,Marshall Islands,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MHL
-9759,Marshall Islands,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MHL
-9760,Marshall Islands,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MHL
-9485,Mauritania,Measles,Vaccination for Measles is not required,Option 5,MRT
-9486,Mauritania,Polio,Vaccination for Poliovirus is not required,Option 5,MRT
-9487,Mauritania,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MRT
-9488,Mauritania,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MRT
-9489,Mauritania,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MRT
-9776,Mauritius,Measles,Vaccination for Measles is not required,Option 5,MUS
-9777,Mauritius,Polio,Vaccination for Poliovirus is not required,Option 5,MUS
-9778,Mauritius,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MUS
-9779,Mauritius,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MUS
-9780,Mauritius,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MUS
-6094,Mexico,Measles,Vaccination for Measles is required,Option 1,MEX
-6095,Mexico,Polio,Vaccination for Poliovirus is required,Option 1,MEX
-6096,Mexico,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MEX
-6097,Mexico,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MEX
-6098,Mexico,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MEX
-9746,Micronesia (Federated States of Micronesia),Measles,Vaccination for Measles is required,Option 1,FSM
-9747,Micronesia (Federated States of Micronesia),Polio,Vaccination for Poliovirus is required,Option 1,FSM
-9748,Micronesia (Federated States of Micronesia),Diphtheria,Vaccination for Diphtheria is required ,Option 1,FSM
-9749,Micronesia (Federated States of Micronesia),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,FSM
-9750,Micronesia (Federated States of Micronesia),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,FSM
-9802,Monaco,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MCO
-9803,Monaco,Polio,Vaccination for Poliovirus is required,Option 1,MCO
-9804,Monaco,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MCO
-9805,Monaco,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MCO
-9806,Monaco,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MCO
-6754,Mongolia,Measles,Vaccination for Measles is required,Option 1,MNG
-6755,Mongolia,Polio,Vaccination for Poliovirus is required,Option 1,MNG
-6756,Mongolia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MNG
-6757,Mongolia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MNG
-6758,Mongolia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MNG
-8808,Montenegro,Measles,Vaccination for Measles is required,Option 1,MNE
-8809,Montenegro,Polio,Vaccination for Poliovirus is required,Option 1,MNE
-8810,Montenegro,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MNE
-8811,Montenegro,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MNE
-8812,Montenegro,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MNE
-9730,Morocco,Measles,Vaccination for Measles is not required,Option 5,MAR
-9731,Morocco,Polio,Vaccination for Poliovirus is not required,Option 5,MAR
-9732,Morocco,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MAR
-9733,Morocco,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MAR
-9734,Morocco,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MAR
-6242,Mozambique,Measles,Vaccination for Measles is not required,Option 5,MOZ
-6243,Mozambique,Polio,Vaccination for Poliovirus is not required,Option 5,MOZ
-6244,Mozambique,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MOZ
-6245,Mozambique,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MOZ
-6246,Mozambique,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MOZ
-8591,Myanmar (Burma),Measles,Vaccination for Measles is not required,Option 5,MMR
-8592,Myanmar (Burma),Polio,Vaccination for Poliovirus is not required,Option 5,MMR
-8593,Myanmar (Burma),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,MMR
-8594,Myanmar (Burma),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,MMR
-8595,Myanmar (Burma),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,MMR
-5973,Namibia,Measles,Vaccination for Measles is not required,Option 5,NAM
-5974,Namibia,Polio,Vaccination for Poliovirus is not required,Option 5,NAM
-5975,Namibia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NAM
-5976,Namibia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NAM
-5977,Namibia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NAM
-9766,Nauru,Measles,Vaccination for Measles is not required,Option 5,NRU
-9767,Nauru,Polio,Vaccination for Poliovirus is not required,Option 5,NRU
-9768,Nauru,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NRU
-9769,Nauru,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NRU
-9770,Nauru,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NRU
-9283,Nepal,Measles,Vaccination for Measles is not required,Option 5,NPL
-9284,Nepal,Polio,Vaccination for Poliovirus is not required,Option 5,NPL
-9285,Nepal,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NPL
-9286,Nepal,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NPL
-9287,Nepal,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NPL
-4032,Netherlands,Measles,Vaccination for Measles is not required,Option 5,NLD
-4033,Netherlands,Polio,Vaccination for Poliovirus is not required,Option 5,NLD
-4034,Netherlands,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NLD
-4035,Netherlands,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NLD
-4036,Netherlands,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NLD
-9097,New Zealand,Measles,Vaccination for Measles is not required,Option 5,NZL
-9098,New Zealand,Polio,Vaccination for Poliovirus is not required,Option 5,NZL
-9099,New Zealand,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NZL
-9100,New Zealand,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NZL
-9101,New Zealand,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NZL
-8823,Nicaragua,Measles,Vaccination for Measles is required,Option 1,NIC
-8824,Nicaragua,Polio,Vaccination for Poliovirus is required,Option 1,NIC
-8825,Nicaragua,Diphtheria,Vaccination for Diphtheria is required ,Option 1,NIC
-8826,Nicaragua,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,NIC
-8827,Nicaragua,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,NIC
-8930,Niger,Measles,Vaccination for Measles is not required,Option 5,NER
-8931,Niger,Polio,Vaccination for Poliovirus is not required,Option 5,NER
-8932,Niger,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NER
-8933,Niger,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NER
-8934,Niger,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NER
-9434,Nigeria,Measles,Vaccination for Measles is not required,Option 5,NGA
-9435,Nigeria,Polio,Vaccination for Poliovirus is not required,Option 5,NGA
-9436,Nigeria,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NGA
-9437,Nigeria,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NGA
-9438,Nigeria,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NGA
-8759,Niue,Measles,Vaccination for Measles is not required,Option 5,NIU
-8760,Niue,Polio,Vaccination for Poliovirus is not required,Option 5,NIU
-8761,Niue,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NIU
-8762,Niue,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NIU
-8763,Niue,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NIU
-5734,North Macedonia (Macedonia; FYROM),Measles,Vaccination for Measles is required,Option 1,MKD
-5735,North Macedonia (Macedonia; FYROM),Polio,Vaccination for Poliovirus is required,Option 1,MKD
-5736,North Macedonia (Macedonia; FYROM),Diphtheria,Vaccination for Diphtheria is required ,Option 1,MKD
-5737,North Macedonia (Macedonia; FYROM),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MKD
-5738,North Macedonia (Macedonia; FYROM),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MKD
-3924,Norway,Measles,Vaccination for Measles is not required,Option 5,NOR
-3925,Norway,Polio,Vaccination for Poliovirus is not required,Option 5,NOR
-3926,Norway,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,NOR
-3927,Norway,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,NOR
-3928,Norway,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,NOR
-8254,Oman,Measles,Vaccination for Measles is required,Option 1,OMN
-8255,Oman,Polio,Vaccination for Poliovirus is required,Option 1,OMN
-8256,Oman,Diphtheria,Vaccination for Diphtheria is required ,Option 1,OMN
-8257,Oman,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,OMN
-8258,Oman,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,OMN
-4007,Pakistan,Measles,Vaccination for Measles is not required,Option 5,PAK
-4008,Pakistan,Polio,Vaccination for Poliovirus is not required,Option 5,PAK
-4009,Pakistan,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,PAK
-4010,Pakistan,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,PAK
-4011,Pakistan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,PAK
-6517,Palau,Measles,Vaccination for Measles is not required,Option 5,PLW
-6518,Palau,Polio,Vaccination for Poliovirus is not required,Option 5,PLW
-6519,Palau,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,PLW
-6520,Palau,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,PLW
-6521,Palau,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,PLW
-8665,Panama,Measles,Vaccination for Measles is required,Option 1,PAN
-8666,Panama,Polio,Vaccination for Poliovirus is required,Option 1,PAN
-8667,Panama,Diphtheria,Vaccination for Diphtheria is required ,Option 1,PAN
-8668,Panama,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,PAN
-8669,Panama,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,PAN
-9075,Papua New Guinea,Measles,Vaccination for Measles is not required,Option 5,PNG
-9076,Papua New Guinea,Diphtheria,Vaccination for Poliovirus is not required,Option 5,PNG
-9077,Papua New Guinea,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,PNG
-9078,Papua New Guinea,Polio,Vaccination for Varicella is not required,Option 5,PNG
-9079,Papua New Guinea,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,PNG
-6320,Paraguay,Measles,Vaccination for Measles is required,Option 1,PRY
-6321,Paraguay,Polio,Vaccination for Poliovirus is required,Option 1,PRY
-6322,Paraguay,Diphtheria,Vaccination for Diphtheria is required ,Option 1,PRY
-6323,Paraguay,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,PRY
-6324,Paraguay,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,PRY
-6005,Peru,Measles,Vaccination for Measles is required,Option 1,PER
-6006,Peru,Polio,Vaccination for Poliovirus is required,Option 1,PER
-6007,Peru,Diphtheria,Vaccination for Diphtheria is required ,Option 1,PER
-6008,Peru,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,PER
-6009,Peru,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,PER
-7098,Philippines,Measles,Vaccination for Measles is required,Option 1,PHL
-7099,Philippines,Polio,Vaccination for Poliovirus is required,Option 1,PHL
-7100,Philippines,Diphtheria,Vaccination for Diphtheria is required ,Option 1,PHL
-7101,Philippines,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,PHL
-7102,Philippines,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,PHL
-2845,Poland,Measles,Vaccination for Measles is required,Option 1,POL
-2846,Poland,Diphtheria,Vaccination for Diphtheria is required ,Option 1,POL
-2847,Poland,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,POL
-2848,Poland,Polio,Vaccination for Poliovirus is required,Option 1,POL
-2849,Poland,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,POL
-4027,Portugal,Measles,Vaccination for Measles is not required,Option 5,PRT
-4028,Portugal,Diphtheria,Vaccination for Poliovirus is not required,Option 5,PRT
-4029,Portugal,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,PRT
-4030,Portugal,Polio,Vaccination for Varicella is not required,Option 5,PRT
-4031,Portugal,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,PRT
-8237,Qatar,Measles,Vaccination for Measles is required,Option 1,QAT
-8238,Qatar,Polio,Vaccination for Poliovirus is required,Option 1,QAT
-8239,Qatar,Diphtheria,Vaccination for Diphtheria is required ,Option 1,QAT
-8240,Qatar,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,QAT
-8241,Qatar,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,QAT
-8397,Republic of Korea (South Korea; ROK),Measles,Vaccination for Measles is required,Option 1,KOR
-8398,Republic of Korea (South Korea; ROK),Polio,Vaccination for Poliovirus is required,Option 1,KOR
-8399,Republic of Korea (South Korea; ROK),Diphtheria,Vaccination for Diphtheria is required ,Option 1,KOR
-8400,Republic of Korea (South Korea; ROK),Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,KOR
-8401,Republic of Korea (South Korea; ROK),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,KOR
-5778,Republic of Moldova,Measles,Vaccination for Measles is required,Option 1,MDA
-5779,Republic of Moldova,Polio,Vaccination for Poliovirus is required,Option 1,MDA
-5780,Republic of Moldova,Diphtheria,Vaccination for Diphtheria is required ,Option 1,MDA
-5781,Republic of Moldova,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,MDA
-5782,Republic of Moldova,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,MDA
-9490,Republic of the Congo,Measles,Vaccination for Measles is not required,Option 5,COG
-9491,Republic of the Congo,Diphtheria,Vaccination for Poliovirus is not required,Option 5,COG
-9492,Republic of the Congo,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,COG
-9493,Republic of the Congo,Polio,Vaccination for Varicella is not required,Option 5,COG
-9494,Republic of the Congo,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,COG
-4022,Romania,Measles,Vaccination for Measles is required,Option 1,ROU
-4023,Romania,Polio,Vaccination for Poliovirus is required,Option 1,ROU
-4024,Romania,Diphtheria,Vaccination for Diphtheria is required ,Option 1,ROU
-4025,Romania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ROU
-4026,Romania,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,ROU
-5902,Russian Federation,Measles,Vaccination for Measles is required,Option 1,RUS
-5903,Russian Federation,Polio,Vaccination for Poliovirus is required,Option 1,RUS
-5904,Russian Federation,Diphtheria,Vaccination for Diphtheria is required ,Option 1,RUS
-5905,Russian Federation,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,RUS
-5906,Russian Federation,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,RUS
-9480,Rwanda,Measles,Vaccination for Measles is not required,Option 5,RWA
-9481,Rwanda,Diphtheria,Vaccination for Poliovirus is not required,Option 5,RWA
-9482,Rwanda,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,RWA
-9483,Rwanda,Polio,Vaccination for Varicella is not required,Option 5,RWA
-9484,Rwanda,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,RWA
-9229,Saint Kitts and Nevis (St Kitts and Nevis),Measles,Vaccination for Measles is required,Option 1,KNA
-9230,Saint Kitts and Nevis (St Kitts and Nevis),Polio,Vaccination for Poliovirus is required,Option 1,KNA
-9231,Saint Kitts and Nevis (St Kitts and Nevis),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,KNA
-9232,Saint Kitts and Nevis (St Kitts and Nevis),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,KNA
-9233,Saint Kitts and Nevis (St Kitts and Nevis),Tuberculosis,Vaccination for Tuberculosis is not required,Option 2,KNA
-9720,Saint Lucia (St Lucia),Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LCA
-9721,Saint Lucia (St Lucia),Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LCA
-9722,Saint Lucia (St Lucia),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LCA
-9723,Saint Lucia (St Lucia),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LCA
-9724,Saint Lucia (St Lucia),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LCA
-5941,Saint Vincent and the Grenadines (St Vincent and the Grenadines),Measles,Vaccination for Measles is required,Option 1,VCT
-5942,Saint Vincent and the Grenadines (St Vincent and the Grenadines),Polio,Vaccination for Poliovirus is required,Option 1,VCT
-5943,Saint Vincent and the Grenadines (St Vincent and the Grenadines),Diphtheria,Vaccination for Diphtheria is required ,Option 1,VCT
-5944,Saint Vincent and the Grenadines (St Vincent and the Grenadines),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,VCT
-5945,Saint Vincent and the Grenadines (St Vincent and the Grenadines),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,VCT
-9782,Samoa,Measles,Vaccination for Measles is required,Option 1,WSM
-9783,Samoa,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,WSM
-9784,Samoa,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,WSM
-9785,Samoa,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,WSM
-9786,Samoa,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,WSM
-9797,San Marino,Measles,Vaccination for Measles is required,Option 1,SMR
-9798,San Marino,Polio,Vaccination for Poliovirus is required,Option 1,SMR
-9799,San Marino,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SMR
-9800,San Marino,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SMR
-9801,San Marino,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SMR
-9787,São Tomé and Príncipe,Measles,Vaccination for Measles is not required,Option 5,STP
-9788,São Tomé and Príncipe,Polio,Vaccination for Poliovirus is not required,Option 5,STP
-9789,São Tomé and Príncipe,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,STP
-9790,São Tomé and Príncipe,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,STP
-9791,São Tomé and Príncipe,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,STP
-9264,Saudi Arabia,Measles,Vaccination for Measles is required,Option 1,SAU
-9265,Saudi Arabia,Polio,Vaccination for Poliovirus is required,Option 1,SAU
-9266,Saudi Arabia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SAU
-9267,Saudi Arabia,Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,SAU
-9268,Saudi Arabia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SAU
-9397,Senegal,Measles,Vaccination for Measles is not required,Option 5,SEN
-9398,Senegal,Diphtheria,Vaccination for Poliovirus is not required,Option 5,SEN
-9399,Senegal,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,Option 5,SEN
-9400,Senegal,Polio,Vaccination for Varicella is not required,Option 5,SEN
-9401,Senegal,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SEN
-5552,Serbia,Measles,Vaccination for Measles is required,Option 1,SRB
-5553,Serbia,Polio,Vaccination for Poliovirus is required,Option 1,SRB
-5554,Serbia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SRB
-5555,Serbia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SRB
-5556,Serbia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SRB
-9812,Seychelles,Measles,Vaccination for Measles is not required,Option 5,SYC
-9813,Seychelles,Polio,Vaccination for Poliovirus is not required,Option 5,SYC
-9814,Seychelles,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SYC
-9815,Seychelles,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SYC
-9816,Seychelles,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SYC
-9407,Sierra Leone,Measles,Vaccination for Measles is not required,Option 5,SLE
-9408,Sierra Leone,Polio,Vaccination for Poliovirus is not required,Option 5,SLE
-9409,Sierra Leone,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SLE
-9410,Sierra Leone,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SLE
-9411,Sierra Leone,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SLE
-3844,Singapore,Measles,Vaccination for Measles is required,Option 1,SGP
-3845,Singapore,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SGP
-3846,Singapore,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SGP
-3847,Singapore,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SGP
-3848,Singapore,Tuberculosis,Vaccination for Tuberculosis is not required,Option 2,SGP
-3955,Slovakia,Measles,Vaccination for Measles is required,Option 1,SVK
-3956,Slovakia,Polio,Vaccination for Poliovirus is required,Option 1,SVK
-3957,Slovakia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SVK
-3958,Slovakia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SVK
-3959,Slovakia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 2,SVK
-3960,Slovenia,Measles,Vaccination for Measles is required,Option 1,SVN
-3961,Slovenia,Polio,Vaccination for Poliovirus is required,Option 1,SVN
-3962,Slovenia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SVN
-3963,Slovenia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 2,SVN
-3964,Slovenia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SVN
-9735,Solomon Islands,Measles,Vaccination for Measles is not required,Option 5,SLB
-9736,Solomon Islands,Polio,Vaccination for Poliovirus is not required,Option 5,SLB
-9737,Solomon Islands,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SLB
-9738,Solomon Islands,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SLB
-9739,Solomon Islands,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SLB
-9011,Somalia,Measles,Vaccination for Measles is not required,Option 5,SOM
-9012,Somalia,Polio,Vaccination for Poliovirus is not required,Option 5,SOM
-9013,Somalia,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SOM
-9014,Somalia,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SOM
-9015,Somalia,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SOM
-6776,South Africa,Measles,Vaccination for Measles is not required,Option 5,ZAF
-6777,South Africa,Polio,Vaccination for Poliovirus is not required,Option 5,ZAF
-6778,South Africa,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ZAF
-6779,South Africa,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ZAF
-6780,South Africa,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ZAF
-8994,South Sudan,Measles,Vaccination for Measles is not required,Option 5,SSD
-8995,South Sudan,Polio,Vaccination for Poliovirus is not required,Option 5,SSD
-8996,South Sudan,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SSD
-8997,South Sudan,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SSD
-8998,South Sudan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SSD
-4012,Spain,Measles,Vaccination for Measles is not required,Option 5,ESP
-4013,Spain,Polio,Vaccination for Poliovirus is not required,Option 5,ESP
-4014,Spain,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ESP
-4015,Spain,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ESP
-4016,Spain,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ESP
-9345,Sri Lanka,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LKA
-9346,Sri Lanka,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LKA
-9347,Sri Lanka,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LKA
-9348,Sri Lanka,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LKA
-9349,Sri Lanka,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,LKA
-8461,Sudan,Measles,Vaccination for Measles is required,Option 1,SDN
-8462,Sudan,Polio,Vaccination for Poliovirus is required,Option 1,SDN
-8463,Sudan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,SDN
-8464,Sudan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,SDN
-8465,Sudan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,SDN
-9340,Suriname,Measles,Vaccination for Measles is not required,Option 5,SUR
-9341,Suriname,Polio,Vaccination for Poliovirus is not required,Option 5,SUR
-9342,Suriname,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SUR
-9343,Suriname,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SUR
-9344,Suriname,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SUR
-4017,Sweden,Measles,Vaccination for Measles is not required,Option 5,SWE
-4018,Sweden,Polio,Vaccination for Poliovirus is not required,Option 5,SWE
-4019,Sweden,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SWE
-4020,Sweden,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SWE
-4021,Sweden,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SWE
-4037,Switzerland,Measles,Vaccination for Measles is not required,Option 5,CHE
-4038,Switzerland,Polio,Vaccination for Poliovirus is not required,Option 5,CHE
-4039,Switzerland,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,CHE
-4040,Switzerland,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,CHE
-4041,Switzerland,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,CHE
-9305,Syrian Arab Republic (Syria),Measles,Vaccination for Measles is not required,Option 5,SYR
-9306,Syrian Arab Republic (Syria),Polio,Vaccination for Poliovirus is not required,Option 5,SYR
-9307,Syrian Arab Republic (Syria),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,SYR
-9308,Syrian Arab Republic (Syria),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,SYR
-9309,Syrian Arab Republic (Syria),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,SYR
-5796,Tajikistan,Measles,Vaccination for Measles is required,Option 1,TJK
-5797,Tajikistan,Polio,Vaccination for Poliovirus is required,Option 1,TJK
-5798,Tajikistan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,TJK
-5799,Tajikistan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TJK
-5800,Tajikistan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,TJK
-7112,Thailand,Measles,Vaccination for Measles is not required,Option 5,THA
-7113,Thailand,Polio,Vaccination for Poliovirus is not required,Option 5,THA
-7114,Thailand,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,THA
-7115,Thailand,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,THA
-7116,Thailand,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,THA
-9114,Timor-Leste,Measles,Vaccination for Measles is not required,Option 5,TLS
-9115,Timor-Leste,Polio,Vaccination for Poliovirus is not required,Option 5,TLS
-9116,Timor-Leste,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,TLS
-9117,Timor-Leste,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,TLS
-9118,Timor-Leste,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,TLS
-6437,Togo,Measles,Vaccination for Measles is not required,Option 5,TGO
-6438,Togo,Polio,Vaccination for Poliovirus is not required,Option 5,TGO
-6439,Togo,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,TGO
-6440,Togo,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,TGO
-6441,Togo,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,TGO
-9725,Trinidad and Tobago,Measles,Vaccination for Measles is required,Option 1,TTO
-9726,Trinidad and Tobago,Polio,Vaccination for Poliovirus is required,Option 1,TTO
-9727,Trinidad and Tobago,Diphtheria,Vaccination for Diphtheria is required ,Option 1,TTO
-9728,Trinidad and Tobago,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TTO
-9729,Trinidad and Tobago,Tuberculosis,Vaccination for Tuberculosis is not required,Option 2,TTO
-8952,Tunisia,Measles,Vaccination for Measles is required,Option 1,TUN
-8953,Tunisia,Polio,Vaccination for Poliovirus is required,Option 1,TUN
-8954,Tunisia,Diphtheria,Vaccination for Diphtheria is required ,Option 1,TUN
-8955,Tunisia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TUN
-8956,Tunisia,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,TUN
-7181,Türkiye (Turkey),Measles,Vaccination for Measles is not required,Option 5,TUR
-7182,Türkiye (Turkey),Polio,Vaccination for Poliovirus is not required,Option 5,TUR
-7183,Türkiye (Turkey),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,TUR
-7184,Türkiye (Turkey),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,TUR
-7185,Türkiye (Turkey),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,TUR
-8447,Turkmenistan,Measles,Vaccination for Measles is required,Option 1,TKM
-8448,Turkmenistan,Polio,Vaccination for Poliovirus is required,Option 1,TKM
-8449,Turkmenistan,Diphtheria,Vaccination for Diphtheria is required ,Option 1,TKM
-8450,Turkmenistan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TKM
-8451,Turkmenistan,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,TKM
-9761,Tuvalu,Measles,Vaccination for Measles is not required,Option 5,TUV
-9762,Tuvalu,Polio,Vaccination for Poliovirus is not required,Option 5,TUV
-9763,Tuvalu,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,TUV
-9764,Tuvalu,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,TUV
-9765,Tuvalu,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,TUV
-6232,Uganda,Measles,Vaccination for Measles is required,Option 1,UGA
-6234,Uganda,Polio,Vaccination for Poliovirus is required,Option 1,UGA
-6235,Uganda,Diphtheria,Vaccination for Diphtheria is required ,Option 1,UGA
-6236,Uganda,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,UGA
-6237,Uganda,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,UGA
-5724,Ukraine,Measles,Vaccination for Measles is required,Option 1,UKR
-5725,Ukraine,Polio,Vaccination for Poliovirus is required,Option 1,UKR
-5726,Ukraine,Diphtheria,Vaccination for Diphtheria is required ,Option 1,UKR
-5727,Ukraine,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,UKR
-5728,Ukraine,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,UKR
-9335,United Arab Emirates (UAE),Measles,Vaccination for Measles is required,Option 1,ARE
-9336,United Arab Emirates (UAE),Polio,Vaccination for Poliovirus is required,Option 1,ARE
-9337,United Arab Emirates (UAE),Diphtheria,Vaccination for Diphtheria is required ,Option 1,ARE
-9338,United Arab Emirates (UAE),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ARE
-9339,United Arab Emirates (UAE),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,ARE
-4047,United Kingdom of Great Britain and Northern Ireland (UK),Measles,Vaccination for Measles is not required,Option 5,GBR
-4048,United Kingdom of Great Britain and Northern Ireland (UK),Polio,Vaccination for Poliovirus is not required,Option 5,GBR
-4049,United Kingdom of Great Britain and Northern Ireland (UK),Diphtheria,Vaccination for Diphtheria is not required ,Option 5,GBR
-4050,United Kingdom of Great Britain and Northern Ireland (UK),Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,GBR
-4051,United Kingdom of Great Britain and Northern Ireland (UK),Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,GBR
-5912,United Republic of Tanzania,Measles,Vaccination for Measles is required,Option 1,TZA
-5913,United Republic of Tanzania,Polio,Vaccination for Poliovirus is required,Option 1,TZA
-5914,United Republic of Tanzania,Diphtheria,Vaccination for Diphtheria is required ,Option 1,TZA
-5915,United Republic of Tanzania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,TZA
-5916,United Republic of Tanzania,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,TZA
-9022,United States of America (USA),Measles,Vaccination for Measles is required,Option 1,USA
-9023,United States of America (USA),Polio,Vaccination for Poliovirus is required,Option 1,USA
-9024,United States of America (USA),Diphtheria,Vaccination for Diphtheria is required ,Option 1,USA
-9025,United States of America (USA),Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,USA
-9026,United States of America (USA),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,USA
-6666,Uruguay,Measles,Vaccination for Measles is required,Option 1,URY
-6667,Uruguay,Polio,Vaccination for Poliovirus is required,Option 1,URY
-6668,Uruguay,Diphtheria,Vaccination for Diphtheria is required ,Option 1,URY
-6669,Uruguay,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,URY
-6670,Uruguay,Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,URY
-6823,Uzbekistan,Measles,Vaccination for Measles is not required,Option 5,UZB
-6824,Uzbekistan,Polio,Vaccination for Poliovirus is not required,Option 5,UZB
-6825,Uzbekistan,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,UZB
-6826,Uzbekistan,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,UZB
-6827,Uzbekistan,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,UZB
-9740,Vanuatu,Measles,Vaccination for Measles is not required,Option 5,VUT
-9741,Vanuatu,Polio,Vaccination for Poliovirus is not required,Option 5,VUT
-9742,Vanuatu,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,VUT
-9743,Vanuatu,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,VUT
-9744,Vanuatu,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,VUT
-6026,Venezuela (Bolivarian Republic of),Measles,Vaccination for Measles is required,Option 1,VEN
-6027,Venezuela (Bolivarian Republic of),Polio,Vaccination for Poliovirus is required,Option 1,VEN
-6028,Venezuela (Bolivarian Republic of),Diphtheria,Vaccination for Diphtheria is required ,Option 1,VEN
-6029,Venezuela (Bolivarian Republic of),Chickenpox (Varicella),Vaccination for Varicella is required,Option 1,VEN
-6030,Venezuela (Bolivarian Republic of),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,VEN
-6896,Viet Nam (Vietnam),Measles,Vaccination for Measles is required,Option 1,VNM
-6897,Viet Nam (Vietnam),Polio,Vaccination for Poliovirus is required,Option 1,VNM
-6898,Viet Nam (Vietnam),Diphtheria,Vaccination for Diphtheria is required ,Option 1,VNM
-6899,Viet Nam (Vietnam),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,VNM
-6900,Viet Nam (Vietnam),Tuberculosis,Vaccination for Tuberculosis is required ,Option 1,VNM
-9323,Yemen,Measles,Vaccination for Measles is not required,Option 5,YEM
-9324,Yemen,Polio,Vaccination for Poliovirus is not required,Option 5,YEM
-9325,Yemen,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,YEM
-9326,Yemen,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,YEM
-9327,Yemen,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,YEM
-8383,Zambia,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ZMB
-8384,Zambia,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ZMB
-8385,Zambia,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ZMB
-8386,Zambia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ZMB
-8387,Zambia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",Option 2,ZMB
-6042,Zimbabwe,Measles,Vaccination for Measles is not required,Option 5,ZWE
-6043,Zimbabwe,Polio,Vaccination for Poliovirus is not required,Option 5,ZWE
-6044,Zimbabwe,Diphtheria,Vaccination for Diphtheria is not required ,Option 5,ZWE
-6045,Zimbabwe,Chickenpox (Varicella),Vaccination for Varicella is not required,Option 5,ZWE
-6046,Zimbabwe,Tuberculosis,Vaccination for Tuberculosis is not required,Option 5,ZWE
+﻿Country,Subtopic_link,Status_link,iso_a3_eh
+Afghanistan,Measles,Vaccination for Measles is not required,AFG
+Afghanistan,Diphtheria,Vaccination for Poliovirus is not required,AFG
+Afghanistan,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,AFG
+Afghanistan,Polio,Vaccination for Varicella is not required,AFG
+Afghanistan,Tuberculosis,Vaccination for Tuberculosis is not required,AFG
+Albania,Measles,Vaccination for Measles is required,ALB
+Albania,Polio,Vaccination for Poliovirus is required,ALB
+Albania,Diphtheria,Vaccination for Diphtheria is required ,ALB
+Albania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ALB
+Albania,Tuberculosis,Vaccination for Tuberculosis is required ,ALB
+Algeria,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DZA
+Algeria,Polio,Vaccination for Poliovirus is required,DZA
+Algeria,Diphtheria,Vaccination for Diphtheria is required ,DZA
+Algeria,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DZA
+Algeria,Tuberculosis,Vaccination for Tuberculosis is required ,DZA
+Andorra,Measles,Vaccination for Measles is required,AND
+Andorra,Polio,Vaccination for Poliovirus is required,AND
+Andorra,Diphtheria,Vaccination for Diphtheria is required ,AND
+Andorra,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",AND
+Andorra,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",AND
+Angola,Measles,Vaccination for Measles is not required,AGO
+Angola,Polio,Vaccination for Poliovirus is not required,AGO
+Angola,Diphtheria,Vaccination for Diphtheria is not required ,AGO
+Angola,Chickenpox (Varicella),Vaccination for Varicella is not required,AGO
+Angola,Tuberculosis,Vaccination for Tuberculosis is not required,AGO
+Antigua and Barbuda,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ATG
+Antigua and Barbuda,Polio,Vaccination for Poliovirus is required,ATG
+Antigua and Barbuda,Diphtheria,Vaccination for Diphtheria is required ,ATG
+Antigua and Barbuda,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ATG
+Antigua and Barbuda,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ATG
+Argentina,Measles,Vaccination for Measles is required,ARG
+Argentina,Polio,Vaccination for Poliovirus is required,ARG
+Argentina,Diphtheria,Vaccination for Diphtheria is required ,ARG
+Argentina,Chickenpox (Varicella),Vaccination for Varicella is required,ARG
+Argentina,Tuberculosis,Vaccination for Tuberculosis is required ,ARG
+Armenia,Measles,Vaccination for Measles is not required,ARM
+Armenia,Polio,Vaccination for Poliovirus is not required,ARM
+Armenia,Diphtheria,Vaccination for Diphtheria is not required ,ARM
+Armenia,Chickenpox (Varicella),Vaccination for Varicella is not required,ARM
+Armenia,Tuberculosis,Vaccination for Tuberculosis is not required,ARM
+Australia,Measles,Vaccination for Measles is required,AUS
+Australia,Polio,Vaccination for Poliovirus is required,AUS
+Australia,Diphtheria,Vaccination for Diphtheria is required ,AUS
+Australia,Chickenpox (Varicella),Vaccination for Varicella is required,AUS
+Australia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",AUS
+Austria,Measles,Vaccination for Measles is not required,AUT
+Austria,Polio,Vaccination for Poliovirus is not required,AUT
+Austria,Diphtheria,Vaccination for Diphtheria is not required ,AUT
+Austria,Chickenpox (Varicella),Vaccination for Varicella is not required,AUT
+Austria,Tuberculosis,Vaccination for Tuberculosis is not required,AUT
+Azerbaijan,Measles,Vaccination for Measles is not required,AZE
+Azerbaijan,Polio,Vaccination for Poliovirus is not required,AZE
+Azerbaijan,Diphtheria,Vaccination for Diphtheria is not required ,AZE
+Azerbaijan,Chickenpox (Varicella),Vaccination for Varicella is not required,AZE
+Azerbaijan,Tuberculosis,Vaccination for Tuberculosis is not required,AZE
+Bahamas,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BHS
+Bahamas,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BHS
+Bahamas,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BHS
+Bahamas,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BHS
+Bahamas,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BHS
+Bahrain,Measles,Vaccination for Measles is required,BHR
+Bahrain,Polio,Vaccination for Poliovirus is required,BHR
+Bahrain,Diphtheria,Vaccination for Diphtheria is required ,BHR
+Bahrain,Chickenpox (Varicella),Vaccination for Varicella is required,BHR
+Bahrain,Tuberculosis,Vaccination for Tuberculosis is required ,BHR
+Bangladesh,Measles,Vaccination for Measles is not required,BGD
+Bangladesh,Polio,Vaccination for Poliovirus is not required,BGD
+Bangladesh,Diphtheria,Vaccination for Diphtheria is not required ,BGD
+Bangladesh,Chickenpox (Varicella),Vaccination for Varicella is not required,BGD
+Bangladesh,Tuberculosis,Vaccination for Tuberculosis is not required,BGD
+Barbados,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BRB
+Barbados,Polio,Vaccination for Poliovirus is required,BRB
+Barbados,Diphtheria,Vaccination for Diphtheria is required ,BRB
+Barbados,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BRB
+Barbados,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BRB
+Belarus,Measles,Vaccination for Measles is not required,BLR
+Belarus,Polio,Vaccination for Poliovirus is not required,BLR
+Belarus,Diphtheria,Vaccination for Diphtheria is not required ,BLR
+Belarus,Chickenpox (Varicella),Vaccination for Varicella is not required,BLR
+Belarus,Tuberculosis,Vaccination for Tuberculosis is not required,BLR
+Belgium,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BEL
+Belgium,Polio,Vaccination for Poliovirus is required,BEL
+Belgium,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BEL
+Belgium,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BEL
+Belgium,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BEL
+Belize,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BLZ
+Belize,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BLZ
+Belize,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BLZ
+Belize,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BLZ
+Belize,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BLZ
+Benin,Measles,Vaccination for Measles is required,BEN
+Benin,Polio,Vaccination for Poliovirus is required,BEN
+Benin,Diphtheria,Vaccination for Diphtheria is required ,BEN
+Benin,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BEN
+Benin,Tuberculosis,Vaccination for Tuberculosis is required ,BEN
+Bhutan,Measles,Vaccination for Measles is required,BTN
+Bhutan,Polio,Vaccination for Poliovirus is required,BTN
+Bhutan,Diphtheria,Vaccination for Diphtheria is required ,BTN
+Bhutan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BTN
+Bhutan,Tuberculosis,Vaccination for Tuberculosis is required ,BTN
+Bolivia (Plurinational State of),Measles,Vaccination for Measles is not required,BOL
+Bolivia (Plurinational State of),Polio,Vaccination for Poliovirus is not required,BOL
+Bolivia (Plurinational State of),Diphtheria,Vaccination for Diphtheria is not required ,BOL
+Bolivia (Plurinational State of),Chickenpox (Varicella),Vaccination for Varicella is not required,BOL
+Bolivia (Plurinational State of),Tuberculosis,Vaccination for Tuberculosis is not required,BOL
+Bosnia and Herzegovina,Measles,Vaccination for Measles is required,BIH
+Bosnia and Herzegovina,Polio,Vaccination for Poliovirus is required,BIH
+Bosnia and Herzegovina,Diphtheria,Vaccination for Diphtheria is required ,BIH
+Bosnia and Herzegovina,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BIH
+Bosnia and Herzegovina,Tuberculosis,Vaccination for Tuberculosis is required ,BIH
+Botswana,Measles,Vaccination for Measles is required,BWA
+Botswana,Polio,Vaccination for Poliovirus is required,BWA
+Botswana,Diphtheria,Vaccination for Diphtheria is required ,BWA
+Botswana,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BWA
+Botswana,Tuberculosis,Vaccination for Tuberculosis is required ,BWA
+Brazil,Measles,Vaccination for Measles is required,BRA
+Brazil,Polio,Vaccination for Poliovirus is required,BRA
+Brazil,Diphtheria,Vaccination for Diphtheria is required ,BRA
+Brazil,Chickenpox (Varicella),Vaccination for Varicella is required,BRA
+Brazil,Tuberculosis,Vaccination for Tuberculosis is required ,BRA
+Brunei Darussalam,Measles,Vaccination for Measles is required,BRN
+Brunei Darussalam,Polio,Vaccination for Poliovirus is required,BRN
+Brunei Darussalam,Diphtheria,Vaccination for Diphtheria is required ,BRN
+Brunei Darussalam,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BRN
+Brunei Darussalam,Tuberculosis,Vaccination for Tuberculosis is required ,BRN
+Bulgaria,Measles,Vaccination for Measles is required,BGR
+Bulgaria,Polio,Vaccination for Poliovirus is required,BGR
+Bulgaria,Diphtheria,Vaccination for Diphtheria is required ,BGR
+Bulgaria,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BGR
+Bulgaria,Tuberculosis,Vaccination for Tuberculosis is required ,BGR
+Burkina Faso,Measles,Vaccination for Measles is required,BFA
+Burkina Faso,Polio,Vaccination for Poliovirus is required,BFA
+Burkina Faso,Diphtheria,Vaccination for Diphtheria is required ,BFA
+Burkina Faso,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",BFA
+Burkina Faso,Tuberculosis,Vaccination for Tuberculosis is required ,BFA
+Burundi,Measles,Vaccination for Measles is not required,BDI
+Burundi,Polio,Vaccination for Poliovirus is not required,BDI
+Burundi,Diphtheria,Vaccination for Diphtheria is not required ,BDI
+Burundi,Chickenpox (Varicella),Vaccination for Varicella is not required,BDI
+Burundi,Tuberculosis,Vaccination for Tuberculosis is not required,BDI
+Cabo Verde (Cape Verde),Measles,Vaccination for Measles is not required,CPV
+Cabo Verde (Cape Verde),Polio,Vaccination for Poliovirus is not required,CPV
+Cabo Verde (Cape Verde),Diphtheria,Vaccination for Diphtheria is not required ,CPV
+Cabo Verde (Cape Verde),Chickenpox (Varicella),Vaccination for Varicella is not required,CPV
+Cabo Verde (Cape Verde),Tuberculosis,Vaccination for Tuberculosis is not required,CPV
+Cambodia,Measles,Vaccination for Measles is not required,KHM
+Cambodia,Polio,Vaccination for Poliovirus is not required,KHM
+Cambodia,Diphtheria,Vaccination for Diphtheria is not required ,KHM
+Cambodia,Chickenpox (Varicella),Vaccination for Varicella is not required,KHM
+Cambodia,Tuberculosis,Vaccination for Tuberculosis is not required,KHM
+Cameroon,Measles,Vaccination for Measles is not required,CMR
+Cameroon,Polio,Vaccination for Poliovirus is not required,CMR
+Cameroon,Diphtheria,Vaccination for Diphtheria is not required ,CMR
+Cameroon,Chickenpox (Varicella),Vaccination for Varicella is not required,CMR
+Cameroon,Tuberculosis,Vaccination for Tuberculosis is not required,CMR
+Canada,Measles,Vaccination for Measles is not required,CAN
+Canada,Polio,Vaccination for Poliovirus is not required,CAN
+Canada,Diphtheria,Vaccination for Diphtheria is not required ,CAN
+Canada,Chickenpox (Varicella),Vaccination for Varicella is not required,CAN
+Canada,Tuberculosis,Vaccination for Tuberculosis is not required,CAN
+Central African Republic (CAR),Measles,Vaccination for Measles is not required,CAF
+Central African Republic (CAR),Polio,Vaccination for Poliovirus is not required,CAF
+Central African Republic (CAR),Diphtheria,Vaccination for Diphtheria is not required ,CAF
+Central African Republic (CAR),Chickenpox (Varicella),Vaccination for Varicella is not required,CAF
+Central African Republic (CAR),Tuberculosis,Vaccination for Tuberculosis is not required,CAF
+Chad,Measles,Vaccination for Measles is not required,TCD
+Chad,Polio,Vaccination for Poliovirus is not required,TCD
+Chad,Diphtheria,Vaccination for Diphtheria is not required ,TCD
+Chad,Chickenpox (Varicella),Vaccination for Varicella is not required,TCD
+Chad,Tuberculosis,Vaccination for Tuberculosis is not required,TCD
+Chile,Measles,Vaccination for Measles is required,CHL
+Chile,Polio,Vaccination for Poliovirus is required,CHL
+Chile,Diphtheria,Vaccination for Diphtheria is required ,CHL
+Chile,Chickenpox (Varicella),Vaccination for Varicella is required,CHL
+Chile,Tuberculosis,Vaccination for Tuberculosis is required ,CHL
+China (People's Republic of China; PRC),Measles,Vaccination for Measles is not required,CHN
+China (People's Republic of China; PRC),Polio,Vaccination for Poliovirus is not required,CHN
+China (People's Republic of China; PRC),Diphtheria,Vaccination for Diphtheria is not required ,CHN
+China (People's Republic of China; PRC),Chickenpox (Varicella),Vaccination for Varicella is not required,CHN
+China (People's Republic of China; PRC),Tuberculosis,Vaccination for Tuberculosis is not required,CHN
+Chinese Taipei (Taiwan; Republic of China; ROC),Measles,Vaccination for Measles is required,TWN
+Chinese Taipei (Taiwan; Republic of China; ROC),Polio,Vaccination for Poliovirus is required,TWN
+Chinese Taipei (Taiwan; Republic of China; ROC),Diphtheria,Vaccination for Diphtheria is required ,TWN
+Chinese Taipei (Taiwan; Republic of China; ROC),Chickenpox (Varicella),Vaccination for Varicella is required,TWN
+Chinese Taipei (Taiwan; Republic of China; ROC),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TWN
+Colombia,Measles,Vaccination for Measles is required,COL
+Colombia,Polio,Vaccination for Poliovirus is required,COL
+Colombia,Diphtheria,Vaccination for Diphtheria is required ,COL
+Colombia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",COL
+Colombia,Tuberculosis,Vaccination for Tuberculosis is required ,COL
+Comoros,Measles,Vaccination for Measles is required,COM
+Comoros,Polio,Vaccination for Poliovirus is required,COM
+Comoros,Diphtheria,Vaccination for Diphtheria is required ,COM
+Comoros,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",COM
+Comoros,Tuberculosis,Vaccination for Tuberculosis is required ,COM
+Costa Rica,Measles,Vaccination for Measles is required,CRI
+Costa Rica,Polio,Vaccination for Poliovirus is required,CRI
+Costa Rica,Diphtheria,Vaccination for Diphtheria is required ,CRI
+Costa Rica,Chickenpox (Varicella),Vaccination for Varicella is required,CRI
+Costa Rica,Tuberculosis,Vaccination for Tuberculosis is required ,CRI
+Côte d'Ivoire (Ivory Coast),Measles,Vaccination for Measles is not required,CIV
+Côte d'Ivoire (Ivory Coast),Polio,Vaccination for Poliovirus is not required,CIV
+Côte d'Ivoire (Ivory Coast),Diphtheria,Vaccination for Diphtheria is not required ,CIV
+Côte d'Ivoire (Ivory Coast),Chickenpox (Varicella),Vaccination for Varicella is not required,CIV
+Côte d'Ivoire (Ivory Coast),Tuberculosis,Vaccination for Tuberculosis is not required,CIV
+Croatia,Measles,Vaccination for Measles is required,HRV
+Croatia,Polio,Vaccination for Poliovirus is required,HRV
+Croatia,Diphtheria,Vaccination for Diphtheria is required ,HRV
+Croatia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",HRV
+Croatia,Tuberculosis,Vaccination for Tuberculosis is required ,HRV
+Cuba,Measles,Vaccination for Measles is not required,CUB
+Cuba,Polio,Vaccination for Poliovirus is not required,CUB
+Cuba,Diphtheria,Vaccination for Diphtheria is not required ,CUB
+Cuba,Chickenpox (Varicella),Vaccination for Varicella is not required,CUB
+Cuba,Tuberculosis,Vaccination for Tuberculosis is not required,CUB
+Curacao,Measles,Vaccination for Measles is not required,CUW
+Curacao,Polio,Vaccination for Poliovirus is not required,CUW
+Curacao,Diphtheria,Vaccination for Diphtheria is not required ,CUW
+Curacao,Chickenpox (Varicella),Vaccination for Varicella is not required,CUW
+Curacao,Tuberculosis,Vaccination for Tuberculosis is not required,CUW
+Cyprus,Measles,Vaccination for Measles is not required,CYP
+Cyprus,Polio,Vaccination for Poliovirus is not required,CYP
+Cyprus,Diphtheria,Vaccination for Diphtheria is not required ,CYP
+Cyprus,Chickenpox (Varicella),Vaccination for Varicella is not required,CYP
+Cyprus,Tuberculosis,Vaccination for Tuberculosis is not required,CYP
+Czechia (Czech Republic),Measles,Vaccination for Measles is required,CZE
+Czechia (Czech Republic),Polio,Vaccination for Poliovirus is required,CZE
+Czechia (Czech Republic),Diphtheria,Vaccination for Diphtheria is required ,CZE
+Czechia (Czech Republic),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",CZE
+Czechia (Czech Republic),Tuberculosis,Vaccination for Tuberculosis is required ,CZE
+Democratic People's Republic of Korea (DPRK),Measles,No data,PRK
+Democratic People's Republic of Korea (DPRK),Polio,No data,PRK
+Democratic People's Republic of Korea (DPRK),Diphtheria,No data,PRK
+Democratic People's Republic of Korea (DPRK),Chickenpox (Varicella),No data,PRK
+Democratic People's Republic of Korea (DPRK),Tuberculosis,No data,PRK
+Democratic Republic of Congo (DRC),Measles,Vaccination for Measles is required,COD
+Democratic Republic of Congo (DRC),Polio,Vaccination for Poliovirus is required,COD
+Democratic Republic of Congo (DRC),Diphtheria,Vaccination for Diphtheria is required ,COD
+Democratic Republic of Congo (DRC),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",COD
+Democratic Republic of Congo (DRC),Tuberculosis,Vaccination for Tuberculosis is required ,COD
+Denmark,Measles,Vaccination for Measles is not required,DNK
+Denmark,Polio,Vaccination for Poliovirus is not required,DNK
+Denmark,Diphtheria,Vaccination for Diphtheria is not required ,DNK
+Denmark,Chickenpox (Varicella),Vaccination for Varicella is not required,DNK
+Denmark,Tuberculosis,Vaccination for Tuberculosis is not required,DNK
+Djibouti,Measles,Vaccination for Measles is not required,DJI
+Djibouti,Polio,Vaccination for Poliovirus is not required,DJI
+Djibouti,Diphtheria,Vaccination for Diphtheria is not required ,DJI
+Djibouti,Chickenpox (Varicella),Vaccination for Varicella is not required,DJI
+Djibouti,Tuberculosis,Vaccination for Tuberculosis is not required,DJI
+Dominica,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DMA
+Dominica,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DMA
+Dominica,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DMA
+Dominica,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DMA
+Dominica,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DMA
+Dominican Republic,Measles,Vaccination for Measles is required,DOM
+Dominican Republic,Polio,Vaccination for Poliovirus is required,DOM
+Dominican Republic,Diphtheria,Vaccination for Diphtheria is required ,DOM
+Dominican Republic,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DOM
+Dominican Republic,Tuberculosis,Vaccination for Tuberculosis is required ,DOM
+Ecuador,Measles,Vaccination for Measles is required,ECU
+Ecuador,Polio,Vaccination for Poliovirus is required,ECU
+Ecuador,Diphtheria,Vaccination for Diphtheria is required ,ECU
+Ecuador,Chickenpox (Varicella),Vaccination for Varicella is required,ECU
+Ecuador,Tuberculosis,Vaccination for Tuberculosis is required ,ECU
+Egypt,Measles,Vaccination for Measles is required,EGY
+Egypt,Polio,Vaccination for Poliovirus is required,EGY
+Egypt,Diphtheria,Vaccination for Diphtheria is required ,EGY
+Egypt,Chickenpox (Varicella),Vaccination for Varicella is required,EGY
+Egypt,Tuberculosis,Vaccination for Tuberculosis is required ,EGY
+El Salvador,Measles,Vaccination for Measles is required,SLV
+El Salvador,Polio,Vaccination for Poliovirus is required,SLV
+El Salvador,Diphtheria,Vaccination for Diphtheria is required ,SLV
+El Salvador,Chickenpox (Varicella),Vaccination for Varicella is required,SLV
+El Salvador,Tuberculosis,Vaccination for Tuberculosis is required ,SLV
+Equatorial Guinea,Measles,Vaccination for Measles is not required,GNQ
+Equatorial Guinea,Polio,Vaccination for Poliovirus is not required,GNQ
+Equatorial Guinea,Diphtheria,Vaccination for Diphtheria is not required ,GNQ
+Equatorial Guinea,Chickenpox (Varicella),Vaccination for Varicella is not required,GNQ
+Equatorial Guinea,Tuberculosis,Vaccination for Tuberculosis is not required,GNQ
+Eritrea,Measles,Vaccination for Measles is not required,ERI
+Eritrea,Polio,Vaccination for Poliovirus is not required,ERI
+Eritrea,Diphtheria,Vaccination for Diphtheria is not required ,ERI
+Eritrea,Chickenpox (Varicella),Vaccination for Varicella is not required,ERI
+Eritrea,Tuberculosis,Vaccination for Tuberculosis is not required,ERI
+Estonia,Measles,Vaccination for Measles is not required,EST
+Estonia,Polio,Vaccination for Poliovirus is not required,EST
+Estonia,Diphtheria,Vaccination for Diphtheria is not required ,EST
+Estonia,Chickenpox (Varicella),Vaccination for Varicella is not required,EST
+Estonia,Tuberculosis,Vaccination for Tuberculosis is not required,EST
+Eswatini (Swaziland),Measles,Vaccination for Measles is not required,SWZ
+Eswatini (Swaziland),Polio,Vaccination for Poliovirus is not required,SWZ
+Eswatini (Swaziland),Diphtheria,Vaccination for Diphtheria is not required ,SWZ
+Eswatini (Swaziland),Chickenpox (Varicella),Vaccination for Varicella is not required,SWZ
+Eswatini (Swaziland),Tuberculosis,Vaccination for Tuberculosis is not required,SWZ
+Ethiopia,Measles,Vaccination for Measles is not required,ETH
+Ethiopia,Polio,Vaccination for Poliovirus is not required,ETH
+Ethiopia,Diphtheria,Vaccination for Diphtheria is not required ,ETH
+Ethiopia,Chickenpox (Varicella),Vaccination for Varicella is not required,ETH
+Ethiopia,Tuberculosis,Vaccination for Tuberculosis is not required,ETH
+Fiji,Measles,Vaccination for Measles is not required,FJI
+Fiji,Polio,Vaccination for Poliovirus is not required,FJI
+Fiji,Diphtheria,Vaccination for Diphtheria is not required ,FJI
+Fiji,Chickenpox (Varicella),Vaccination for Varicella is not required,FJI
+Fiji,Tuberculosis,Vaccination for Tuberculosis is not required,FJI
+Finland,Measles,Vaccination for Measles is not required,FIN
+Finland,Polio,Vaccination for Poliovirus is not required,FIN
+Finland,Diphtheria,Vaccination for Diphtheria is not required ,FIN
+Finland,Chickenpox (Varicella),Vaccination for Varicella is not required,FIN
+Finland,Tuberculosis,Vaccination for Tuberculosis is not required,FIN
+France,Measles,Vaccination for Measles is required,FRA
+France,Polio,Vaccination for Poliovirus is required,FRA
+France,Diphtheria,Vaccination for Diphtheria is required ,FRA
+France,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",FRA
+France,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",FRA
+Gabon,Measles,Vaccination for Measles is not required,GAB
+Gabon,Diphtheria,Vaccination for Poliovirus is not required,GAB
+Gabon,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,GAB
+Gabon,Polio,Vaccination for Varicella is not required,GAB
+Gabon,Tuberculosis,Vaccination for Tuberculosis is not required,GAB
+Gambia (Republic of The),Measles,Vaccination for Measles is not required,GMB
+Gambia (Republic of The),Diphtheria,Vaccination for Poliovirus is not required,GMB
+Gambia (Republic of The),Chickenpox (Varicella),Vaccination for Diphtheria is not required ,GMB
+Gambia (Republic of The),Polio,Vaccination for Varicella is not required,GMB
+Gambia (Republic of The),Tuberculosis,Vaccination for Tuberculosis is not required,GMB
+Georgia,Measles,Vaccination for Measles is not required,GEO
+Georgia,Polio,Vaccination for Poliovirus is not required,GEO
+Georgia,Diphtheria,Vaccination for Diphtheria is not required ,GEO
+Georgia,Chickenpox (Varicella),Vaccination for Varicella is not required,GEO
+Georgia,Tuberculosis,Vaccination for Tuberculosis is not required,GEO
+Germany,Measles,Vaccination for Measles is required,DEU
+Germany,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DEU
+Germany,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DEU
+Germany,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DEU
+Germany,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",DEU
+Ghana,Measles,Vaccination for Measles is not required,GHA
+Ghana,Polio,Vaccination for Poliovirus is not required,GHA
+Ghana,Diphtheria,Vaccination for Diphtheria is not required ,GHA
+Ghana,Chickenpox (Varicella),Vaccination for Varicella is not required,GHA
+Ghana,Tuberculosis,Vaccination for Tuberculosis is not required,GHA
+Greece,Measles,Vaccination for Measles is not required,GRC
+Greece,Polio,Vaccination for Poliovirus is not required,GRC
+Greece,Diphtheria,Vaccination for Diphtheria is not required ,GRC
+Greece,Chickenpox (Varicella),Vaccination for Varicella is not required,GRC
+Greece,Tuberculosis,Vaccination for Tuberculosis is not required,GRC
+Greenland,Measles,No data,GRL
+Greenland,Polio,No data,GRL
+Greenland,Diphtheria,No data,GRL
+Greenland,Chickenpox (Varicella),No data,GRL
+Greenland,Tuberculosis,No data,GRL
+Grenada,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GRD
+Grenada,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GRD
+Grenada,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GRD
+Grenada,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GRD
+Grenada,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GRD
+Guatemala,Measles,Vaccination for Measles is not required,GTM
+Guatemala,Polio,Vaccination for Poliovirus is not required,GTM
+Guatemala,Diphtheria,Vaccination for Diphtheria is not required ,GTM
+Guatemala,Chickenpox (Varicella),Vaccination for Varicella is not required,GTM
+Guatemala,Tuberculosis,Vaccination for Tuberculosis is not required,GTM
+Guinea,Measles,Vaccination for Measles is required,GIN
+Guinea,Polio,Vaccination for Poliovirus is required,GIN
+Guinea,Diphtheria,Vaccination for Diphtheria is required ,GIN
+Guinea,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GIN
+Guinea,Tuberculosis,Vaccination for Tuberculosis is required ,GIN
+Guinea Bissau,Measles,Vaccination for Measles is not required,GNB
+Guinea Bissau,Polio,Vaccination for Poliovirus is not required,GNB
+Guinea Bissau,Diphtheria,Vaccination for Diphtheria is not required ,GNB
+Guinea Bissau,Chickenpox (Varicella),Vaccination for Varicella is not required,GNB
+Guinea Bissau,Tuberculosis,Vaccination for Tuberculosis is not required,GNB
+Guyana,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GUY
+Guyana,Polio,Vaccination for Poliovirus is required,GUY
+Guyana,Diphtheria,Vaccination for Diphtheria is required ,GUY
+Guyana,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",GUY
+Guyana,Tuberculosis,Vaccination for Tuberculosis is required ,GUY
+Haiti,Measles,Vaccination for Measles is not required,HTI
+Haiti,Polio,Vaccination for Poliovirus is not required,HTI
+Haiti,Diphtheria,Vaccination for Diphtheria is not required ,HTI
+Haiti,Chickenpox (Varicella),Vaccination for Varicella is not required,HTI
+Haiti,Tuberculosis,Vaccination for Tuberculosis is not required,HTI
+Holy See (Vatican City),Measles,Vaccination for Measles is not required,VAT
+Holy See (Vatican City),Polio,Vaccination for Poliovirus is not required,VAT
+Holy See (Vatican City),Diphtheria,Vaccination for Diphtheria is not required ,VAT
+Holy See (Vatican City),Chickenpox (Varicella),Vaccination for Varicella is not required,VAT
+Holy See (Vatican City),Tuberculosis,Vaccination for Tuberculosis is not required,VAT
+Honduras,Measles,Vaccination for Measles is required,HND
+Honduras,Polio,Vaccination for Poliovirus is required,HND
+Honduras,Diphtheria,Vaccination for Diphtheria is required ,HND
+Honduras,Chickenpox (Varicella),Vaccination for Varicella is required,HND
+Honduras,Tuberculosis,Vaccination for Tuberculosis is required ,HND
+Hungary,Measles,Vaccination for Measles is required,HUN
+Hungary,Polio,Vaccination for Poliovirus is required,HUN
+Hungary,Diphtheria,Vaccination for Diphtheria is required ,HUN
+Hungary,Chickenpox (Varicella),Vaccination for Varicella is required,HUN
+Hungary,Tuberculosis,Vaccination for Tuberculosis is required ,HUN
+Iceland,Measles,Vaccination for Measles is not required,ISL
+Iceland,Polio,Vaccination for Poliovirus is not required,ISL
+Iceland,Diphtheria,Vaccination for Diphtheria is not required ,ISL
+Iceland,Chickenpox (Varicella),Vaccination for Varicella is not required,ISL
+Iceland,Tuberculosis,Vaccination for Tuberculosis is not required,ISL
+India,Measles,Vaccination for Measles is not required,IND
+India,Polio,Vaccination for Poliovirus is not required,IND
+India,Diphtheria,Vaccination for Diphtheria is not required ,IND
+India,Chickenpox (Varicella),Vaccination for Varicella is not required,IND
+India,Tuberculosis,Vaccination for Tuberculosis is not required,IND
+Indonesia,Measles,Vaccination for Measles is required,IDN
+Indonesia,Polio,Vaccination for Poliovirus is required,IDN
+Indonesia,Diphtheria,Vaccination for Diphtheria is required ,IDN
+Indonesia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IDN
+Indonesia,Tuberculosis,Vaccination for Tuberculosis is required ,IDN
+Iran (Islamic Republic of),Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRN
+Iran (Islamic Republic of),Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRN
+Iran (Islamic Republic of),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRN
+Iran (Islamic Republic of),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRN
+Iran (Islamic Republic of),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRN
+Iraq,Measles,Vaccination for Measles is required,IRQ
+Iraq,Polio,Vaccination for Poliovirus is required,IRQ
+Iraq,Diphtheria,Vaccination for Diphtheria is required ,IRQ
+Iraq,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",IRQ
+Iraq,Tuberculosis,Vaccination for Tuberculosis is required ,IRQ
+Ireland,Measles,Vaccination for Measles is not required,IRL
+Ireland,Polio,Vaccination for Poliovirus is not required,IRL
+Ireland,Diphtheria,Vaccination for Diphtheria is not required ,IRL
+Ireland,Chickenpox (Varicella),Vaccination for Varicella is not required,IRL
+Ireland,Tuberculosis,Vaccination for Tuberculosis is not required,IRL
+Israel,Measles,Vaccination for Measles is not required,ISR
+Israel,Polio,Vaccination for Poliovirus is not required,ISR
+Israel,Diphtheria,Vaccination for Diphtheria is not required ,ISR
+Israel,Chickenpox (Varicella),Vaccination for Varicella is not required,ISR
+Israel,Tuberculosis,Vaccination for Tuberculosis is not required,ISR
+Italy,Measles,Vaccination for Measles is required,ITA
+Italy,Polio,Vaccination for Poliovirus is required,ITA
+Italy,Diphtheria,Vaccination for Diphtheria is required ,ITA
+Italy,Chickenpox (Varicella),Vaccination for Varicella is required,ITA
+Italy,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ITA
+Jamaica,Measles,Vaccination for Measles is required,JAM
+Jamaica,Polio,Vaccination for Poliovirus is required,JAM
+Jamaica,Diphtheria,Vaccination for Diphtheria is required ,JAM
+Jamaica,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",JAM
+Jamaica,Tuberculosis,Vaccination for Tuberculosis is required ,JAM
+Japan,Measles,Vaccination for Measles is not required,JPN
+Japan,Polio,Vaccination for Poliovirus is not required,JPN
+Japan,Diphtheria,Vaccination for Diphtheria is not required ,JPN
+Japan,Chickenpox (Varicella),Vaccination for Varicella is not required,JPN
+Japan,Tuberculosis,Vaccination for Tuberculosis is not required,JPN
+Jordan,Measles,Vaccination for Measles is required,JOR
+Jordan,Polio,Vaccination for Poliovirus is required,JOR
+Jordan,Diphtheria,Vaccination for Diphtheria is required ,JOR
+Jordan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",JOR
+Jordan,Tuberculosis,Vaccination for Tuberculosis is required ,JOR
+Kazakhstan,Measles,Vaccination for Measles is required,KAZ
+Kazakhstan,Polio,Vaccination for Poliovirus is required,KAZ
+Kazakhstan,Diphtheria,Vaccination for Diphtheria is required ,KAZ
+Kazakhstan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",KAZ
+Kazakhstan,Tuberculosis,Vaccination for Tuberculosis is required ,KAZ
+Kenya,Measles,Vaccination for Measles is not required,KEN
+Kenya,Polio,Vaccination for Poliovirus is not required,KEN
+Kenya,Diphtheria,Vaccination for Diphtheria is not required ,KEN
+Kenya,Chickenpox (Varicella),Vaccination for Varicella is not required,KEN
+Kenya,Tuberculosis,Vaccination for Tuberculosis is not required,KEN
+Kuwait,Measles,Vaccination for Measles is required,KWT
+Kuwait,Polio,Vaccination for Poliovirus is required,KWT
+Kuwait,Diphtheria,Vaccination for Diphtheria is required ,KWT
+Kuwait,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",KWT
+Kuwait,Tuberculosis,Vaccination for Tuberculosis is required ,KWT
+Kyrgyzstan,Measles,Vaccination for Measles is required,KGZ
+Kyrgyzstan,Polio,Vaccination for Poliovirus is required,KGZ
+Kyrgyzstan,Diphtheria,Vaccination for Diphtheria is required ,KGZ
+Kyrgyzstan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",KGZ
+Kyrgyzstan,Tuberculosis,Vaccination for Tuberculosis is required ,KGZ
+Lao People's Democratic Republic (Laos; Lao PDR),Measles,Vaccination for Measles is required,LAO
+Lao People's Democratic Republic (Laos; Lao PDR),Polio,Vaccination for Poliovirus is required,LAO
+Lao People's Democratic Republic (Laos; Lao PDR),Diphtheria,Vaccination for Diphtheria is required ,LAO
+Lao People's Democratic Republic (Laos; Lao PDR),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LAO
+Lao People's Democratic Republic (Laos; Lao PDR),Tuberculosis,Vaccination for Tuberculosis is required ,LAO
+Latvia,Measles,Vaccination for Measles is required,LVA
+Latvia,Polio,Vaccination for Poliovirus is required,LVA
+Latvia,Diphtheria,Vaccination for Diphtheria is required ,LVA
+Latvia,Chickenpox (Varicella),Vaccination for Varicella is required,LVA
+Latvia,Tuberculosis,Vaccination for Tuberculosis is required ,LVA
+Lebanon,Measles,Vaccination for Measles is not required,LBN
+Lebanon,Polio,Vaccination for Poliovirus is not required,LBN
+Lebanon,Diphtheria,Vaccination for Diphtheria is not required ,LBN
+Lebanon,Chickenpox (Varicella),Vaccination for Varicella is not required,LBN
+Lebanon,Tuberculosis,Vaccination for Tuberculosis is not required,LBN
+Lesotho,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LSO
+Lesotho,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LSO
+Lesotho,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LSO
+Lesotho,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LSO
+Lesotho,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LSO
+Liberia,Measles,Vaccination for Measles is required,LBR
+Liberia,Polio,Vaccination for Poliovirus is required,LBR
+Liberia,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LBR
+Liberia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LBR
+Liberia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LBR
+Libya,Measles,Vaccination for Measles is required,LBY
+Libya,Polio,Vaccination for Poliovirus is required,LBY
+Libya,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LBY
+Libya,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LBY
+Libya,Tuberculosis,Vaccination for Tuberculosis is required ,LBY
+Liechtenstein,Measles,Vaccination for Measles is not required,LIE
+Liechtenstein,Polio,Vaccination for Poliovirus is not required,LIE
+Liechtenstein,Diphtheria,Vaccination for Diphtheria is not required ,LIE
+Liechtenstein,Chickenpox (Varicella),Vaccination for Varicella is not required,LIE
+Liechtenstein,Tuberculosis,Vaccination for Tuberculosis is not required,LIE
+Lithuania,Measles,Vaccination for Measles is not required,LTU
+Lithuania,Polio,Vaccination for Poliovirus is not required,LTU
+Lithuania,Diphtheria,Vaccination for Diphtheria is not required ,LTU
+Lithuania,Chickenpox (Varicella),Vaccination for Varicella is not required,LTU
+Lithuania,Tuberculosis,Vaccination for Tuberculosis is not required,LTU
+Luxembourg,Measles,Vaccination for Measles is not required,LUX
+Luxembourg,Polio,Vaccination for Poliovirus is not required,LUX
+Luxembourg,Diphtheria,Vaccination for Diphtheria is not required ,LUX
+Luxembourg,Chickenpox (Varicella),Vaccination for Varicella is not required,LUX
+Luxembourg,Tuberculosis,Vaccination for Tuberculosis is not required,LUX
+Madagascar,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MDG
+Madagascar,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MDG
+Madagascar,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MDG
+Madagascar,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MDG
+Madagascar,Tuberculosis,Vaccination for Tuberculosis is required ,MDG
+Malawi,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MWI
+Malawi,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MWI
+Malawi,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MWI
+Malawi,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MWI
+Malawi,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MWI
+Malaysia,Measles,Vaccination for Measles is not required,MYS
+Malaysia,Polio,Vaccination for Poliovirus is not required,MYS
+Malaysia,Diphtheria,Vaccination for Diphtheria is not required ,MYS
+Malaysia,Chickenpox (Varicella),Vaccination for Varicella is not required,MYS
+Malaysia,Tuberculosis,Vaccination for Tuberculosis is not required,MYS
+Maldives,Measles,Vaccination for Measles is not required,MDV
+Maldives,Polio,Vaccination for Poliovirus is not required,MDV
+Maldives,Diphtheria,Vaccination for Diphtheria is not required ,MDV
+Maldives,Chickenpox (Varicella),Vaccination for Varicella is not required,MDV
+Maldives,Tuberculosis,Vaccination for Tuberculosis is not required,MDV
+Mali,Measles,Vaccination for Measles is required,MLI
+Mali,Polio,Vaccination for Poliovirus is required,MLI
+Mali,Diphtheria,Vaccination for Diphtheria is required ,MLI
+Mali,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MLI
+Mali,Tuberculosis,Vaccination for Tuberculosis is required ,MLI
+Malta,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MLT
+Malta,Polio,Vaccination for Poliovirus is required,MLT
+Malta,Diphtheria,Vaccination for Diphtheria is required ,MLT
+Malta,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MLT
+Malta,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MLT
+Marshall Islands,Measles,Vaccination for Measles is not required,MHL
+Marshall Islands,Polio,Vaccination for Poliovirus is not required,MHL
+Marshall Islands,Diphtheria,Vaccination for Diphtheria is not required ,MHL
+Marshall Islands,Chickenpox (Varicella),Vaccination for Varicella is not required,MHL
+Marshall Islands,Tuberculosis,Vaccination for Tuberculosis is not required,MHL
+Mauritania,Measles,Vaccination for Measles is not required,MRT
+Mauritania,Polio,Vaccination for Poliovirus is not required,MRT
+Mauritania,Diphtheria,Vaccination for Diphtheria is not required ,MRT
+Mauritania,Chickenpox (Varicella),Vaccination for Varicella is not required,MRT
+Mauritania,Tuberculosis,Vaccination for Tuberculosis is not required,MRT
+Mauritius,Measles,Vaccination for Measles is not required,MUS
+Mauritius,Polio,Vaccination for Poliovirus is not required,MUS
+Mauritius,Diphtheria,Vaccination for Diphtheria is not required ,MUS
+Mauritius,Chickenpox (Varicella),Vaccination for Varicella is not required,MUS
+Mauritius,Tuberculosis,Vaccination for Tuberculosis is not required,MUS
+Mexico,Measles,Vaccination for Measles is required,MEX
+Mexico,Polio,Vaccination for Poliovirus is required,MEX
+Mexico,Diphtheria,Vaccination for Diphtheria is required ,MEX
+Mexico,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MEX
+Mexico,Tuberculosis,Vaccination for Tuberculosis is required ,MEX
+Micronesia (Federated States of Micronesia),Measles,Vaccination for Measles is required,FSM
+Micronesia (Federated States of Micronesia),Polio,Vaccination for Poliovirus is required,FSM
+Micronesia (Federated States of Micronesia),Diphtheria,Vaccination for Diphtheria is required ,FSM
+Micronesia (Federated States of Micronesia),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",FSM
+Micronesia (Federated States of Micronesia),Tuberculosis,Vaccination for Tuberculosis is required ,FSM
+Monaco,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MCO
+Monaco,Polio,Vaccination for Poliovirus is required,MCO
+Monaco,Diphtheria,Vaccination for Diphtheria is required ,MCO
+Monaco,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MCO
+Monaco,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MCO
+Mongolia,Measles,Vaccination for Measles is required,MNG
+Mongolia,Polio,Vaccination for Poliovirus is required,MNG
+Mongolia,Diphtheria,Vaccination for Diphtheria is required ,MNG
+Mongolia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MNG
+Mongolia,Tuberculosis,Vaccination for Tuberculosis is required ,MNG
+Montenegro,Measles,Vaccination for Measles is required,MNE
+Montenegro,Polio,Vaccination for Poliovirus is required,MNE
+Montenegro,Diphtheria,Vaccination for Diphtheria is required ,MNE
+Montenegro,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MNE
+Montenegro,Tuberculosis,Vaccination for Tuberculosis is required ,MNE
+Morocco,Measles,Vaccination for Measles is not required,MAR
+Morocco,Polio,Vaccination for Poliovirus is not required,MAR
+Morocco,Diphtheria,Vaccination for Diphtheria is not required ,MAR
+Morocco,Chickenpox (Varicella),Vaccination for Varicella is not required,MAR
+Morocco,Tuberculosis,Vaccination for Tuberculosis is not required,MAR
+Mozambique,Measles,Vaccination for Measles is not required,MOZ
+Mozambique,Polio,Vaccination for Poliovirus is not required,MOZ
+Mozambique,Diphtheria,Vaccination for Diphtheria is not required ,MOZ
+Mozambique,Chickenpox (Varicella),Vaccination for Varicella is not required,MOZ
+Mozambique,Tuberculosis,Vaccination for Tuberculosis is not required,MOZ
+Myanmar (Burma),Measles,Vaccination for Measles is not required,MMR
+Myanmar (Burma),Polio,Vaccination for Poliovirus is not required,MMR
+Myanmar (Burma),Diphtheria,Vaccination for Diphtheria is not required ,MMR
+Myanmar (Burma),Chickenpox (Varicella),Vaccination for Varicella is not required,MMR
+Myanmar (Burma),Tuberculosis,Vaccination for Tuberculosis is not required,MMR
+Namibia,Measles,Vaccination for Measles is not required,NAM
+Namibia,Polio,Vaccination for Poliovirus is not required,NAM
+Namibia,Diphtheria,Vaccination for Diphtheria is not required ,NAM
+Namibia,Chickenpox (Varicella),Vaccination for Varicella is not required,NAM
+Namibia,Tuberculosis,Vaccination for Tuberculosis is not required,NAM
+Nauru,Measles,Vaccination for Measles is not required,NRU
+Nauru,Polio,Vaccination for Poliovirus is not required,NRU
+Nauru,Diphtheria,Vaccination for Diphtheria is not required ,NRU
+Nauru,Chickenpox (Varicella),Vaccination for Varicella is not required,NRU
+Nauru,Tuberculosis,Vaccination for Tuberculosis is not required,NRU
+Nepal,Measles,Vaccination for Measles is not required,NPL
+Nepal,Polio,Vaccination for Poliovirus is not required,NPL
+Nepal,Diphtheria,Vaccination for Diphtheria is not required ,NPL
+Nepal,Chickenpox (Varicella),Vaccination for Varicella is not required,NPL
+Nepal,Tuberculosis,Vaccination for Tuberculosis is not required,NPL
+Netherlands,Measles,Vaccination for Measles is not required,NLD
+Netherlands,Polio,Vaccination for Poliovirus is not required,NLD
+Netherlands,Diphtheria,Vaccination for Diphtheria is not required ,NLD
+Netherlands,Chickenpox (Varicella),Vaccination for Varicella is not required,NLD
+Netherlands,Tuberculosis,Vaccination for Tuberculosis is not required,NLD
+New Zealand,Measles,Vaccination for Measles is not required,NZL
+New Zealand,Polio,Vaccination for Poliovirus is not required,NZL
+New Zealand,Diphtheria,Vaccination for Diphtheria is not required ,NZL
+New Zealand,Chickenpox (Varicella),Vaccination for Varicella is not required,NZL
+New Zealand,Tuberculosis,Vaccination for Tuberculosis is not required,NZL
+Nicaragua,Measles,Vaccination for Measles is required,NIC
+Nicaragua,Polio,Vaccination for Poliovirus is required,NIC
+Nicaragua,Diphtheria,Vaccination for Diphtheria is required ,NIC
+Nicaragua,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",NIC
+Nicaragua,Tuberculosis,Vaccination for Tuberculosis is required ,NIC
+Niger,Measles,Vaccination for Measles is not required,NER
+Niger,Polio,Vaccination for Poliovirus is not required,NER
+Niger,Diphtheria,Vaccination for Diphtheria is not required ,NER
+Niger,Chickenpox (Varicella),Vaccination for Varicella is not required,NER
+Niger,Tuberculosis,Vaccination for Tuberculosis is not required,NER
+Nigeria,Measles,Vaccination for Measles is not required,NGA
+Nigeria,Polio,Vaccination for Poliovirus is not required,NGA
+Nigeria,Diphtheria,Vaccination for Diphtheria is not required ,NGA
+Nigeria,Chickenpox (Varicella),Vaccination for Varicella is not required,NGA
+Nigeria,Tuberculosis,Vaccination for Tuberculosis is not required,NGA
+Niue,Measles,Vaccination for Measles is not required,NIU
+Niue,Polio,Vaccination for Poliovirus is not required,NIU
+Niue,Diphtheria,Vaccination for Diphtheria is not required ,NIU
+Niue,Chickenpox (Varicella),Vaccination for Varicella is not required,NIU
+Niue,Tuberculosis,Vaccination for Tuberculosis is not required,NIU
+North Macedonia (Macedonia; FYROM),Measles,Vaccination for Measles is required,MKD
+North Macedonia (Macedonia; FYROM),Polio,Vaccination for Poliovirus is required,MKD
+North Macedonia (Macedonia; FYROM),Diphtheria,Vaccination for Diphtheria is required ,MKD
+North Macedonia (Macedonia; FYROM),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MKD
+North Macedonia (Macedonia; FYROM),Tuberculosis,Vaccination for Tuberculosis is required ,MKD
+Norway,Measles,Vaccination for Measles is not required,NOR
+Norway,Polio,Vaccination for Poliovirus is not required,NOR
+Norway,Diphtheria,Vaccination for Diphtheria is not required ,NOR
+Norway,Chickenpox (Varicella),Vaccination for Varicella is not required,NOR
+Norway,Tuberculosis,Vaccination for Tuberculosis is not required,NOR
+Oman,Measles,Vaccination for Measles is required,OMN
+Oman,Polio,Vaccination for Poliovirus is required,OMN
+Oman,Diphtheria,Vaccination for Diphtheria is required ,OMN
+Oman,Chickenpox (Varicella),Vaccination for Varicella is required,OMN
+Oman,Tuberculosis,Vaccination for Tuberculosis is required ,OMN
+Pakistan,Measles,Vaccination for Measles is not required,PAK
+Pakistan,Polio,Vaccination for Poliovirus is not required,PAK
+Pakistan,Diphtheria,Vaccination for Diphtheria is not required ,PAK
+Pakistan,Chickenpox (Varicella),Vaccination for Varicella is not required,PAK
+Pakistan,Tuberculosis,Vaccination for Tuberculosis is not required,PAK
+Palau,Measles,Vaccination for Measles is not required,PLW
+Palau,Polio,Vaccination for Poliovirus is not required,PLW
+Palau,Diphtheria,Vaccination for Diphtheria is not required ,PLW
+Palau,Chickenpox (Varicella),Vaccination for Varicella is not required,PLW
+Palau,Tuberculosis,Vaccination for Tuberculosis is not required,PLW
+Panama,Measles,Vaccination for Measles is required,PAN
+Panama,Polio,Vaccination for Poliovirus is required,PAN
+Panama,Diphtheria,Vaccination for Diphtheria is required ,PAN
+Panama,Chickenpox (Varicella),Vaccination for Varicella is required,PAN
+Panama,Tuberculosis,Vaccination for Tuberculosis is required ,PAN
+Papua New Guinea,Measles,Vaccination for Measles is not required,PNG
+Papua New Guinea,Diphtheria,Vaccination for Poliovirus is not required,PNG
+Papua New Guinea,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,PNG
+Papua New Guinea,Polio,Vaccination for Varicella is not required,PNG
+Papua New Guinea,Tuberculosis,Vaccination for Tuberculosis is not required,PNG
+Paraguay,Measles,Vaccination for Measles is required,PRY
+Paraguay,Polio,Vaccination for Poliovirus is required,PRY
+Paraguay,Diphtheria,Vaccination for Diphtheria is required ,PRY
+Paraguay,Chickenpox (Varicella),Vaccination for Varicella is required,PRY
+Paraguay,Tuberculosis,Vaccination for Tuberculosis is required ,PRY
+Peru,Measles,Vaccination for Measles is required,PER
+Peru,Polio,Vaccination for Poliovirus is required,PER
+Peru,Diphtheria,Vaccination for Diphtheria is required ,PER
+Peru,Chickenpox (Varicella),Vaccination for Varicella is required,PER
+Peru,Tuberculosis,Vaccination for Tuberculosis is required ,PER
+Philippines,Measles,Vaccination for Measles is required,PHL
+Philippines,Polio,Vaccination for Poliovirus is required,PHL
+Philippines,Diphtheria,Vaccination for Diphtheria is required ,PHL
+Philippines,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",PHL
+Philippines,Tuberculosis,Vaccination for Tuberculosis is required ,PHL
+Poland,Measles,Vaccination for Measles is required,POL
+Poland,Diphtheria,Vaccination for Diphtheria is required ,POL
+Poland,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",POL
+Poland,Polio,Vaccination for Poliovirus is required,POL
+Poland,Tuberculosis,Vaccination for Tuberculosis is required ,POL
+Portugal,Measles,Vaccination for Measles is not required,PRT
+Portugal,Diphtheria,Vaccination for Poliovirus is not required,PRT
+Portugal,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,PRT
+Portugal,Polio,Vaccination for Varicella is not required,PRT
+Portugal,Tuberculosis,Vaccination for Tuberculosis is not required,PRT
+Qatar,Measles,Vaccination for Measles is required,QAT
+Qatar,Polio,Vaccination for Poliovirus is required,QAT
+Qatar,Diphtheria,Vaccination for Diphtheria is required ,QAT
+Qatar,Chickenpox (Varicella),Vaccination for Varicella is required,QAT
+Qatar,Tuberculosis,Vaccination for Tuberculosis is required ,QAT
+Republic of Korea (South Korea; ROK),Measles,Vaccination for Measles is required,KOR
+Republic of Korea (South Korea; ROK),Polio,Vaccination for Poliovirus is required,KOR
+Republic of Korea (South Korea; ROK),Diphtheria,Vaccination for Diphtheria is required ,KOR
+Republic of Korea (South Korea; ROK),Chickenpox (Varicella),Vaccination for Varicella is required,KOR
+Republic of Korea (South Korea; ROK),Tuberculosis,Vaccination for Tuberculosis is required ,KOR
+Republic of Moldova,Measles,Vaccination for Measles is required,MDA
+Republic of Moldova,Polio,Vaccination for Poliovirus is required,MDA
+Republic of Moldova,Diphtheria,Vaccination for Diphtheria is required ,MDA
+Republic of Moldova,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",MDA
+Republic of Moldova,Tuberculosis,Vaccination for Tuberculosis is required ,MDA
+Republic of the Congo,Measles,Vaccination for Measles is not required,COG
+Republic of the Congo,Diphtheria,Vaccination for Poliovirus is not required,COG
+Republic of the Congo,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,COG
+Republic of the Congo,Polio,Vaccination for Varicella is not required,COG
+Republic of the Congo,Tuberculosis,Vaccination for Tuberculosis is not required,COG
+Romania,Measles,Vaccination for Measles is required,ROU
+Romania,Polio,Vaccination for Poliovirus is required,ROU
+Romania,Diphtheria,Vaccination for Diphtheria is required ,ROU
+Romania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ROU
+Romania,Tuberculosis,Vaccination for Tuberculosis is required ,ROU
+Russian Federation,Measles,Vaccination for Measles is required,RUS
+Russian Federation,Polio,Vaccination for Poliovirus is required,RUS
+Russian Federation,Diphtheria,Vaccination for Diphtheria is required ,RUS
+Russian Federation,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",RUS
+Russian Federation,Tuberculosis,Vaccination for Tuberculosis is required ,RUS
+Rwanda,Measles,Vaccination for Measles is not required,RWA
+Rwanda,Diphtheria,Vaccination for Poliovirus is not required,RWA
+Rwanda,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,RWA
+Rwanda,Polio,Vaccination for Varicella is not required,RWA
+Rwanda,Tuberculosis,Vaccination for Tuberculosis is not required,RWA
+Saint Kitts and Nevis (St Kitts and Nevis),Measles,Vaccination for Measles is required,KNA
+Saint Kitts and Nevis (St Kitts and Nevis),Polio,Vaccination for Poliovirus is required,KNA
+Saint Kitts and Nevis (St Kitts and Nevis),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",KNA
+Saint Kitts and Nevis (St Kitts and Nevis),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",KNA
+Saint Kitts and Nevis (St Kitts and Nevis),Tuberculosis,Vaccination for Tuberculosis is not required,KNA
+Saint Lucia (St Lucia),Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LCA
+Saint Lucia (St Lucia),Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LCA
+Saint Lucia (St Lucia),Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LCA
+Saint Lucia (St Lucia),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LCA
+Saint Lucia (St Lucia),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LCA
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),Measles,Vaccination for Measles is required,VCT
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),Polio,Vaccination for Poliovirus is required,VCT
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),Diphtheria,Vaccination for Diphtheria is required ,VCT
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",VCT
+Saint Vincent and the Grenadines (St Vincent and the Grenadines),Tuberculosis,Vaccination for Tuberculosis is required ,VCT
+Samoa,Measles,Vaccination for Measles is required,WSM
+Samoa,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",WSM
+Samoa,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",WSM
+Samoa,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",WSM
+Samoa,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",WSM
+San Marino,Measles,Vaccination for Measles is required,SMR
+San Marino,Polio,Vaccination for Poliovirus is required,SMR
+San Marino,Diphtheria,Vaccination for Diphtheria is required ,SMR
+San Marino,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SMR
+San Marino,Tuberculosis,Vaccination for Tuberculosis is required ,SMR
+São Tomé and Príncipe,Measles,Vaccination for Measles is not required,STP
+São Tomé and Príncipe,Polio,Vaccination for Poliovirus is not required,STP
+São Tomé and Príncipe,Diphtheria,Vaccination for Diphtheria is not required ,STP
+São Tomé and Príncipe,Chickenpox (Varicella),Vaccination for Varicella is not required,STP
+São Tomé and Príncipe,Tuberculosis,Vaccination for Tuberculosis is not required,STP
+Saudi Arabia,Measles,Vaccination for Measles is required,SAU
+Saudi Arabia,Polio,Vaccination for Poliovirus is required,SAU
+Saudi Arabia,Diphtheria,Vaccination for Diphtheria is required ,SAU
+Saudi Arabia,Chickenpox (Varicella),Vaccination for Varicella is required,SAU
+Saudi Arabia,Tuberculosis,Vaccination for Tuberculosis is required ,SAU
+Senegal,Measles,Vaccination for Measles is not required,SEN
+Senegal,Diphtheria,Vaccination for Poliovirus is not required,SEN
+Senegal,Chickenpox (Varicella),Vaccination for Diphtheria is not required ,SEN
+Senegal,Polio,Vaccination for Varicella is not required,SEN
+Senegal,Tuberculosis,Vaccination for Tuberculosis is not required,SEN
+Serbia,Measles,Vaccination for Measles is required,SRB
+Serbia,Polio,Vaccination for Poliovirus is required,SRB
+Serbia,Diphtheria,Vaccination for Diphtheria is required ,SRB
+Serbia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SRB
+Serbia,Tuberculosis,Vaccination for Tuberculosis is required ,SRB
+Seychelles,Measles,Vaccination for Measles is not required,SYC
+Seychelles,Polio,Vaccination for Poliovirus is not required,SYC
+Seychelles,Diphtheria,Vaccination for Diphtheria is not required ,SYC
+Seychelles,Chickenpox (Varicella),Vaccination for Varicella is not required,SYC
+Seychelles,Tuberculosis,Vaccination for Tuberculosis is not required,SYC
+Sierra Leone,Measles,Vaccination for Measles is not required,SLE
+Sierra Leone,Polio,Vaccination for Poliovirus is not required,SLE
+Sierra Leone,Diphtheria,Vaccination for Diphtheria is not required ,SLE
+Sierra Leone,Chickenpox (Varicella),Vaccination for Varicella is not required,SLE
+Sierra Leone,Tuberculosis,Vaccination for Tuberculosis is not required,SLE
+Singapore,Measles,Vaccination for Measles is required,SGP
+Singapore,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SGP
+Singapore,Diphtheria,Vaccination for Diphtheria is required ,SGP
+Singapore,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SGP
+Singapore,Tuberculosis,Vaccination for Tuberculosis is not required,SGP
+Slovakia,Measles,Vaccination for Measles is required,SVK
+Slovakia,Polio,Vaccination for Poliovirus is required,SVK
+Slovakia,Diphtheria,Vaccination for Diphtheria is required ,SVK
+Slovakia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SVK
+Slovakia,Tuberculosis,Vaccination for Tuberculosis is not required,SVK
+Slovenia,Measles,Vaccination for Measles is required,SVN
+Slovenia,Polio,Vaccination for Poliovirus is required,SVN
+Slovenia,Diphtheria,Vaccination for Diphtheria is required ,SVN
+Slovenia,Chickenpox (Varicella),Vaccination for Varicella is not required,SVN
+Slovenia,Tuberculosis,Vaccination for Tuberculosis is required ,SVN
+Solomon Islands,Measles,Vaccination for Measles is not required,SLB
+Solomon Islands,Polio,Vaccination for Poliovirus is not required,SLB
+Solomon Islands,Diphtheria,Vaccination for Diphtheria is not required ,SLB
+Solomon Islands,Chickenpox (Varicella),Vaccination for Varicella is not required,SLB
+Solomon Islands,Tuberculosis,Vaccination for Tuberculosis is not required,SLB
+Somalia,Measles,Vaccination for Measles is not required,SOM
+Somalia,Polio,Vaccination for Poliovirus is not required,SOM
+Somalia,Diphtheria,Vaccination for Diphtheria is not required ,SOM
+Somalia,Chickenpox (Varicella),Vaccination for Varicella is not required,SOM
+Somalia,Tuberculosis,Vaccination for Tuberculosis is not required,SOM
+South Africa,Measles,Vaccination for Measles is not required,ZAF
+South Africa,Polio,Vaccination for Poliovirus is not required,ZAF
+South Africa,Diphtheria,Vaccination for Diphtheria is not required ,ZAF
+South Africa,Chickenpox (Varicella),Vaccination for Varicella is not required,ZAF
+South Africa,Tuberculosis,Vaccination for Tuberculosis is not required,ZAF
+South Sudan,Measles,Vaccination for Measles is not required,SSD
+South Sudan,Polio,Vaccination for Poliovirus is not required,SSD
+South Sudan,Diphtheria,Vaccination for Diphtheria is not required ,SSD
+South Sudan,Chickenpox (Varicella),Vaccination for Varicella is not required,SSD
+South Sudan,Tuberculosis,Vaccination for Tuberculosis is not required,SSD
+Spain,Measles,Vaccination for Measles is not required,ESP
+Spain,Polio,Vaccination for Poliovirus is not required,ESP
+Spain,Diphtheria,Vaccination for Diphtheria is not required ,ESP
+Spain,Chickenpox (Varicella),Vaccination for Varicella is not required,ESP
+Spain,Tuberculosis,Vaccination for Tuberculosis is not required,ESP
+Sri Lanka,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LKA
+Sri Lanka,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LKA
+Sri Lanka,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LKA
+Sri Lanka,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LKA
+Sri Lanka,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",LKA
+Sudan,Measles,Vaccination for Measles is required,SDN
+Sudan,Polio,Vaccination for Poliovirus is required,SDN
+Sudan,Diphtheria,Vaccination for Diphtheria is required ,SDN
+Sudan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",SDN
+Sudan,Tuberculosis,Vaccination for Tuberculosis is required ,SDN
+Suriname,Measles,Vaccination for Measles is not required,SUR
+Suriname,Polio,Vaccination for Poliovirus is not required,SUR
+Suriname,Diphtheria,Vaccination for Diphtheria is not required ,SUR
+Suriname,Chickenpox (Varicella),Vaccination for Varicella is not required,SUR
+Suriname,Tuberculosis,Vaccination for Tuberculosis is not required,SUR
+Sweden,Measles,Vaccination for Measles is not required,SWE
+Sweden,Polio,Vaccination for Poliovirus is not required,SWE
+Sweden,Diphtheria,Vaccination for Diphtheria is not required ,SWE
+Sweden,Chickenpox (Varicella),Vaccination for Varicella is not required,SWE
+Sweden,Tuberculosis,Vaccination for Tuberculosis is not required,SWE
+Switzerland,Measles,Vaccination for Measles is not required,CHE
+Switzerland,Polio,Vaccination for Poliovirus is not required,CHE
+Switzerland,Diphtheria,Vaccination for Diphtheria is not required ,CHE
+Switzerland,Chickenpox (Varicella),Vaccination for Varicella is not required,CHE
+Switzerland,Tuberculosis,Vaccination for Tuberculosis is not required,CHE
+Syrian Arab Republic (Syria),Measles,Vaccination for Measles is not required,SYR
+Syrian Arab Republic (Syria),Polio,Vaccination for Poliovirus is not required,SYR
+Syrian Arab Republic (Syria),Diphtheria,Vaccination for Diphtheria is not required ,SYR
+Syrian Arab Republic (Syria),Chickenpox (Varicella),Vaccination for Varicella is not required,SYR
+Syrian Arab Republic (Syria),Tuberculosis,Vaccination for Tuberculosis is not required,SYR
+Tajikistan,Measles,Vaccination for Measles is required,TJK
+Tajikistan,Polio,Vaccination for Poliovirus is required,TJK
+Tajikistan,Diphtheria,Vaccination for Diphtheria is required ,TJK
+Tajikistan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TJK
+Tajikistan,Tuberculosis,Vaccination for Tuberculosis is required ,TJK
+Thailand,Measles,Vaccination for Measles is not required,THA
+Thailand,Polio,Vaccination for Poliovirus is not required,THA
+Thailand,Diphtheria,Vaccination for Diphtheria is not required ,THA
+Thailand,Chickenpox (Varicella),Vaccination for Varicella is not required,THA
+Thailand,Tuberculosis,Vaccination for Tuberculosis is not required,THA
+Timor-Leste,Measles,Vaccination for Measles is not required,TLS
+Timor-Leste,Polio,Vaccination for Poliovirus is not required,TLS
+Timor-Leste,Diphtheria,Vaccination for Diphtheria is not required ,TLS
+Timor-Leste,Chickenpox (Varicella),Vaccination for Varicella is not required,TLS
+Timor-Leste,Tuberculosis,Vaccination for Tuberculosis is not required,TLS
+Togo,Measles,Vaccination for Measles is not required,TGO
+Togo,Polio,Vaccination for Poliovirus is not required,TGO
+Togo,Diphtheria,Vaccination for Diphtheria is not required ,TGO
+Togo,Chickenpox (Varicella),Vaccination for Varicella is not required,TGO
+Togo,Tuberculosis,Vaccination for Tuberculosis is required ,TGO
+Trinidad and Tobago,Measles,Vaccination for Measles is required,TTO
+Trinidad and Tobago,Polio,Vaccination for Poliovirus is required,TTO
+Trinidad and Tobago,Diphtheria,Vaccination for Diphtheria is required ,TTO
+Trinidad and Tobago,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TTO
+Trinidad and Tobago,Tuberculosis,Vaccination for Tuberculosis is not required,TTO
+Tunisia,Measles,Vaccination for Measles is required,TUN
+Tunisia,Polio,Vaccination for Poliovirus is required,TUN
+Tunisia,Diphtheria,Vaccination for Diphtheria is required ,TUN
+Tunisia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TUN
+Tunisia,Tuberculosis,Vaccination for Tuberculosis is required ,TUN
+Türkiye (Turkey),Measles,Vaccination for Measles is not required,TUR
+Türkiye (Turkey),Polio,Vaccination for Poliovirus is not required,TUR
+Türkiye (Turkey),Diphtheria,Vaccination for Diphtheria is not required ,TUR
+Türkiye (Turkey),Chickenpox (Varicella),Vaccination for Varicella is not required,TUR
+Türkiye (Turkey),Tuberculosis,Vaccination for Tuberculosis is not required,TUR
+Turkmenistan,Measles,Vaccination for Measles is required,TKM
+Turkmenistan,Polio,Vaccination for Poliovirus is required,TKM
+Turkmenistan,Diphtheria,Vaccination for Diphtheria is required ,TKM
+Turkmenistan,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TKM
+Turkmenistan,Tuberculosis,Vaccination for Tuberculosis is required ,TKM
+Tuvalu,Measles,Vaccination for Measles is not required,TUV
+Tuvalu,Polio,Vaccination for Poliovirus is not required,TUV
+Tuvalu,Diphtheria,Vaccination for Diphtheria is not required ,TUV
+Tuvalu,Chickenpox (Varicella),Vaccination for Varicella is not required,TUV
+Tuvalu,Tuberculosis,Vaccination for Tuberculosis is not required,TUV
+Uganda,Measles,Vaccination for Measles is required,UGA
+Uganda,Polio,Vaccination for Poliovirus is required,UGA
+Uganda,Diphtheria,Vaccination for Diphtheria is required ,UGA
+Uganda,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",UGA
+Uganda,Tuberculosis,Vaccination for Tuberculosis is required ,UGA
+Ukraine,Measles,Vaccination for Measles is required,UKR
+Ukraine,Polio,Vaccination for Poliovirus is required,UKR
+Ukraine,Diphtheria,Vaccination for Diphtheria is required ,UKR
+Ukraine,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",UKR
+Ukraine,Tuberculosis,Vaccination for Tuberculosis is required ,UKR
+United Arab Emirates (UAE),Measles,Vaccination for Measles is required,ARE
+United Arab Emirates (UAE),Polio,Vaccination for Poliovirus is required,ARE
+United Arab Emirates (UAE),Diphtheria,Vaccination for Diphtheria is required ,ARE
+United Arab Emirates (UAE),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ARE
+United Arab Emirates (UAE),Tuberculosis,Vaccination for Tuberculosis is required ,ARE
+United Kingdom of Great Britain and Northern Ireland (UK),Measles,Vaccination for Measles is not required,GBR
+United Kingdom of Great Britain and Northern Ireland (UK),Polio,Vaccination for Poliovirus is not required,GBR
+United Kingdom of Great Britain and Northern Ireland (UK),Diphtheria,Vaccination for Diphtheria is not required ,GBR
+United Kingdom of Great Britain and Northern Ireland (UK),Chickenpox (Varicella),Vaccination for Varicella is not required,GBR
+United Kingdom of Great Britain and Northern Ireland (UK),Tuberculosis,Vaccination for Tuberculosis is not required,GBR
+United Republic of Tanzania,Measles,Vaccination for Measles is required,TZA
+United Republic of Tanzania,Polio,Vaccination for Poliovirus is required,TZA
+United Republic of Tanzania,Diphtheria,Vaccination for Diphtheria is required ,TZA
+United Republic of Tanzania,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",TZA
+United Republic of Tanzania,Tuberculosis,Vaccination for Tuberculosis is required ,TZA
+United States of America (USA),Measles,Vaccination for Measles is required,USA
+United States of America (USA),Polio,Vaccination for Poliovirus is required,USA
+United States of America (USA),Diphtheria,Vaccination for Diphtheria is required ,USA
+United States of America (USA),Chickenpox (Varicella),Vaccination for Varicella is required,USA
+United States of America (USA),Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",USA
+Uruguay,Measles,Vaccination for Measles is required,URY
+Uruguay,Polio,Vaccination for Poliovirus is required,URY
+Uruguay,Diphtheria,Vaccination for Diphtheria is required ,URY
+Uruguay,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",URY
+Uruguay,Tuberculosis,Vaccination for Tuberculosis is required ,URY
+Uzbekistan,Measles,Vaccination for Measles is not required,UZB
+Uzbekistan,Polio,Vaccination for Poliovirus is not required,UZB
+Uzbekistan,Diphtheria,Vaccination for Diphtheria is not required ,UZB
+Uzbekistan,Chickenpox (Varicella),Vaccination for Varicella is not required,UZB
+Uzbekistan,Tuberculosis,Vaccination for Tuberculosis is not required,UZB
+Vanuatu,Measles,Vaccination for Measles is not required,VUT
+Vanuatu,Polio,Vaccination for Poliovirus is not required,VUT
+Vanuatu,Diphtheria,Vaccination for Diphtheria is not required ,VUT
+Vanuatu,Chickenpox (Varicella),Vaccination for Varicella is not required,VUT
+Vanuatu,Tuberculosis,Vaccination for Tuberculosis is not required,VUT
+Venezuela (Bolivarian Republic of),Measles,Vaccination for Measles is required,VEN
+Venezuela (Bolivarian Republic of),Polio,Vaccination for Poliovirus is required,VEN
+Venezuela (Bolivarian Republic of),Diphtheria,Vaccination for Diphtheria is required ,VEN
+Venezuela (Bolivarian Republic of),Chickenpox (Varicella),Vaccination for Varicella is required,VEN
+Venezuela (Bolivarian Republic of),Tuberculosis,Vaccination for Tuberculosis is required ,VEN
+Viet Nam (Vietnam),Measles,Vaccination for Measles is required,VNM
+Viet Nam (Vietnam),Polio,Vaccination for Poliovirus is required,VNM
+Viet Nam (Vietnam),Diphtheria,Vaccination for Diphtheria is required ,VNM
+Viet Nam (Vietnam),Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",VNM
+Viet Nam (Vietnam),Tuberculosis,Vaccination for Tuberculosis is required ,VNM
+Yemen,Measles,Vaccination for Measles is not required,YEM
+Yemen,Polio,Vaccination for Poliovirus is not required,YEM
+Yemen,Diphtheria,Vaccination for Diphtheria is not required ,YEM
+Yemen,Chickenpox (Varicella),Vaccination for Varicella is not required,YEM
+Yemen,Tuberculosis,Vaccination for Tuberculosis is not required,YEM
+Zambia,Measles,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ZMB
+Zambia,Polio,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ZMB
+Zambia,Diphtheria,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ZMB
+Zambia,Chickenpox (Varicella),"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ZMB
+Zambia,Tuberculosis,"There is a childhood vaccination mandate for at least one vaccination in this country, but vaccination against this disease is not mandated. ",ZMB
+Zimbabwe,Measles,Vaccination for Measles is not required,ZWE
+Zimbabwe,Polio,Vaccination for Poliovirus is not required,ZWE
+Zimbabwe,Diphtheria,Vaccination for Diphtheria is not required ,ZWE
+Zimbabwe,Chickenpox (Varicella),Vaccination for Varicella is not required,ZWE
+Zimbabwe,Tuberculosis,Vaccination for Tuberculosis is not required,ZWE

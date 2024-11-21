@@ -17,6 +17,13 @@ disease_counts <- diseases.sep %>%
 
 colnames(disease_counts) <- c("Disease", "Count")
 
+# Count vaccines in each country 
+country_counts <- diseases.sep %>%
+  count(Country)
+# Rename columns for clarity
+colnames(country_counts) <- c("Country", "Count")
+
+
 #A few diseases have better names for display
 disease_counts <- disease_counts %>%
   mutate(Disease = case_when(
