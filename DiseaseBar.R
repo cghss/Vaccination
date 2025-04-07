@@ -40,7 +40,7 @@ disease_counts <- disease_counts %>% arrange(desc(Count))
 
 #Plot!
 ggplot(disease_counts, aes(x = reorder(Disease, Count), y = Count)) +
-  geom_bar(stat = "identity", fill = "#1202A8") +
+  geom_bar(stat = "identity", fill = "#33838F") +
   theme_minimal() +
   labs(x = "Disease", y = "Number of Countries Mandating Routine Vaccination") +
   theme(
