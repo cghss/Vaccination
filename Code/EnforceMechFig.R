@@ -10,7 +10,7 @@ library(patchwork)
 
 
 ##Load raw data##
-genvax.raw <- read.csv("GenVaxxWIsos.csv")
+genvax.raw <- read.csv("Data/GenVaxxWIsos.csv")
 
 gv_df <- genvax.raw %>%
   subset(Subtopic.link == "Enforcement of childhood vaccination requirement")
