@@ -8,7 +8,7 @@ library(viridisLite)
 library(scales)
 
 #Reading in the data and cleaning it up
-diseases.raw <- read.csv("MandatedDiseasesFinal.csv")
+diseases.raw <- read.csv("Data/MandatedDiseasesFinal.csv")
 
 diseases.df <- subset(diseases.raw, !is.na(Disease) & Disease != "")
 
