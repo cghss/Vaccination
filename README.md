@@ -14,3 +14,4 @@ Results A total of 106 countries have legally-enforceable policies requiring vac
 
 Conclusion Analyses of the efficacy of childhood vaccination laws are predicated upon a comprehensive mapping of the current legal landscape related to routine immunization. Public health officials and researchers with an interest in increasing routine childhood vaccination rates in their country must know what characteristics of policy have been effective across various contexts. Our mapping of legally-enforceable childhood vaccination policies is foundational for assessing current vulnerabilities to vaccine-preventable diseases and future policy analyses. 
 
+![figure1]([https://github.com/user-attachments/assets/bc52439c-801f-4180-a522-19fb84cee90d](https://github.com/cghss/Vaccination/blob/main/Other/VaccineChoropleth.jpeg))
