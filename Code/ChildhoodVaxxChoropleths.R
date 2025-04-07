@@ -10,7 +10,7 @@ library(patchwork)
 
 
 ##Load raw data##
-vax.raw <- read.csv("ChildhoodVaxxWithIsos1.csv")
+vax.raw <- read.csv("Data/ChildhoodVaxxWithIsos1.csv")
 
 ##Make Measles only df##
 
