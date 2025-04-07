@@ -5,7 +5,6 @@ This repository holds the data and code related to Strengthening Health Security
 Any questions about the repository, data, and/or paper should kindly be directed to Ciara M. Weets at cmw277@georgetown.edu
 
 ![VaccineChoropleth](https://github.com/cghss/Vaccination/blob/main/Other/VaccineChoropleth.jpeg)
-
 **Abstract** 
 
 Background Vaccine preventable diseases (VPD) present a resurgent threat to global health security and jeopardize decades of advancements in public health and economic development. Since 1974, childhood vaccinations are estimated to have prevented 154 million deaths from VPD, yet recent declines in routine vaccination rates highlight the global population's growing vulnerability to these diseases. When paired with appropriate access to healthcare and trusted information, evidence informed enforceable policies have demonstrably improved childhood vaccination rates in countries that have recently implemented more stringent laws on routine vaccination. Here we comprehensively map and describe the current legal environment for childhood vaccination. 
